@@ -1,0 +1,2756 @@
+﻿district,area,bed,toilet,legal_status,furniture,price
+Bình Tân,66.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Bình Tân,66.0,2,2,Hợp đồng mua bán,Basic,3.1
+Tân Phú,85.4,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.35
+Bình Tân,78.0,2,2,Hợp đồng mua bán,Basic,3.5
+Bình Chánh,82.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Bình Chánh,67.0,2,2,Hợp đồng mua bán,Basic,3.19
+Quận 2,65.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Quận 2,69.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.89
+Tân Phú,85.0,2,2,Đang chờ sổ,Basic,4.3
+Tân Phú,85.0,2,2,Hợp đồng mua bán,Basic,4.25
+Quận 12,72.8,2,3,Sổ đỏ/Sổ hồng,Unfurnished,3.95
+Quận 2,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Quận 7,76.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 9,54.4,2,2,Hợp đồng mua bán,Basic,3.0
+Quận 7,66.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.34
+Quận 2,80.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.9
+Tân Bình,80.0,2,1,Sổ đỏ/Sổ hồng,Basic,3.99
+Quận 10,50.0,1,1,Sổ đỏ/Sổ hồng,Basic,4.5
+Bình Thạnh,85.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.75
+Tân Phú,85.4,2,2,Hợp đồng mua bán,Basic,4.9
+Gò Vấp,75.0,2,2,Hợp đồng mua bán,Basic,3.68
+Quận 7,91.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Bình Chánh,150.0,3,3,Sổ đỏ/Sổ hồng,Basic,4.4
+Quận 7,63.6,2,2,Đang chờ sổ,Basic,3.94
+Quận 9,72.0,2,2,Đang chờ sổ,Basic,3.45
+Quận 4,70.0,2,1,Hợp đồng mua bán,Fully Furnished,3.5
+Bình Tân,84.0,4,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 12,60.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Bình Thạnh,73.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.6
+Quận 3,48.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.6
+Tân Phú,91.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 2,80.5,2,2,Sổ đỏ/Sổ hồng,Basic,4.59
+Quận 2,56.0,1,1,Hợp đồng mua bán,Basic,4.2
+Quận 2,52.0,1,1,Đang chờ sổ,Basic,4.9
+Quận 1,52.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.48
+Bình Tân,69.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Quận 2,80.0,2,2,Hợp đồng mua bán,Basic,39.0
+Thủ Đức,51.7,2,1,Sổ đỏ/Sổ hồng,Basic,3.2
+Quận 2,46.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Tân Phú,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 2,77.0,2,2,Hợp đồng mua bán,Luxuriously Furnished,4.65
+Quận 9,67.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 7,77.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 2,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 7,99.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.75
+Quận 2,63.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Quận 12,36.8,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Quận 2,69.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.05
+Quận 7,60.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.25
+Quận 7,76.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.75
+Bình Tân,56.0,4,5,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Gò Vấp,38.5,3,3,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.95
+Gò Vấp,44.0,4,5,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.95
+Thủ Đức,50.0,4,3,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.95
+Quận 12,122.4,5,5,Sổ đỏ/Sổ hồng,Fully Furnished,4.25
+Quận 12,80.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.85
+Quận 4,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 10,74.0,2,2,Hợp đồng mua bán,Basic,3.75
+Quận 9,79.0,3,2,Sổ đỏ/Sổ hồng,Unfurnished,3.0
+Quận 4,70.0,2,1,Hợp đồng mua bán,Luxuriously Furnished,3.4
+Quận 12,50.0,4,3,Sổ đỏ/Sổ hồng,Basic,3.28
+Quận 8,36.5,4,3,Sổ đỏ/Sổ hồng,Basic,3.7
+Bình Thạnh,82.0,2,2,Hợp đồng mua bán,Fully Furnished,4.7
+Tân Phú,106.0,3,3,Hợp đồng mua bán,Fully Furnished,3.5
+Tân Phú,71.0,2,2,Hợp đồng mua bán,Fully Furnished,3.2
+Bình Chánh,128.0,3,3,Sổ đỏ/Sổ hồng,Basic,3.0
+Quận 9,125.0,2,1,Sổ đỏ/Sổ hồng,Basic,4.1
+Quận 9,79.0,2,2,Hợp đồng mua bán,Basic,4.5
+Phú Nhuận,65.0,1,1,Hợp đồng mua bán,Unfurnished,3.1
+Gò Vấp,51.1,2,2,Sổ đỏ/Sổ hồng,Basic,4.8
+Quận 7,86.0,3,2,Hợp đồng mua bán,Basic,3.35
+Tân Phú,62.0,2,1,Hợp đồng mua bán,Basic,3.5
+Quận 2,82.0,2,2,Hợp đồng mua bán,Fully Furnished,4.78
+Quận 1,50.0,1,1,Hợp đồng mua bán,Basic,4.75
+Tân Bình,56.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.35
+Quận 7,60.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.65
+Gò Vấp,52.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Tân Phú,45.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Quận 3,58.0,2,1,Hợp đồng mua bán,Basic,4.2
+Tân Phú,71.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Bình Chánh,78.0,2,2,Sổ đỏ/Sổ hồng,Unfurnished,3.3
+Quận 8,80.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.13
+Quận 11,96.0,2,2,Hợp đồng mua bán,Fully Furnished,4.9
+Quận 7,106.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Tân Phú,85.0,2,2,Hợp đồng mua bán,Fully Furnished,4.3
+Gò Vấp,100.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Quận 3,40.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.75
+Quận 2,61.0,2,2,Hợp đồng mua bán,Fully Furnished,4.1
+Bình Tân,79.0,2,2,Hợp đồng mua bán,Basic,3.25
+Quận 12,86.0,4,4,Sổ đỏ/Sổ hồng,Basic,4.8
+Quận 4,76.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.91
+Quận 4,75.0,2,2,Hợp đồng mua bán,Luxuriously Furnished,4.5
+Quận 1,44.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.55
+Gò Vấp,48.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.0
+Củ Chi,190.0,2,2,Hợp đồng mua bán,Basic,3.5
+Thủ Đức,50.3,2,2,Hợp đồng mua bán,Basic,3.99
+Bình Tân,64.0,2,2,Hợp đồng mua bán,Basic,3.4
+Bình Thạnh,90.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Bình Tân,66.0,2,2,Hợp đồng mua bán,Basic,3.6
+Quận 7,114.0,3,2,Hợp đồng mua bán,Fully Furnished,3.8
+Nhà Bè,45.0,4,3,Sổ đỏ/Sổ hồng,Basic,3.7
+Bình Tân,39.6,2,3,Sổ đỏ/Sổ hồng,Basic,4.0
+Bình Tân,43.0,2,3,Sổ đỏ/Sổ hồng,Basic,3.78
+Quận 8,106.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Thủ Đức,64.68,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 12,56.0,4,3,Sổ đỏ/Sổ hồng,Basic,3.28
+Quận 3,45.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.1
+Quận 7,95.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.7
+Quận 7,100.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.17
+Quận 2,68.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.68
+Quận 1,24.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Quận 12,48.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.2
+Bình Thạnh,37.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Tân Phú,84.0,2,2,Hợp đồng mua bán,Fully Furnished,3.85
+Phú Nhuận,82.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Tân Phú,106.0,3,2,Hợp đồng mua bán,Fully Furnished,3.3
+Tân Bình,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Tân Phú,106.0,3,2,Hợp đồng mua bán,Fully Furnished,3.3
+Tân Bình,74.0,2,2,Hợp đồng mua bán,Fully Furnished,4.1
+Tân Bình,86.0,2,2,Hợp đồng mua bán,Fully Furnished,3.8
+Thủ Đức,50.0,4,3,Sổ đỏ/Sổ hồng,Basic,4.95
+Bình Thạnh,32.0,2,3,Sổ đỏ/Sổ hồng,Basic,3.95
+Thủ Đức,82.3,2,2,Sổ đỏ/Sổ hồng,Basic,4.6
+Phú Nhuận,75.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.3
+Quận 6,97.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Gò Vấp,38.0,3,4,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.98
+Quận 7,90.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.6
+Bình Thạnh,40.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Quận 2,75.0,2,1,Sổ đỏ/Sổ hồng,Basic,3.4
+Quận 11,100.0,3,2,Hợp đồng mua bán,Basic,4.5
+Quận 3,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Tân Phú,62.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.35
+Gò Vấp,54.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Bình Tân,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.34
+Quận 6,83.0,2,2,Đang chờ sổ,Fully Furnished,3.1
+Bình Tân,40.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Thủ Đức,65.0,2,2,Hợp đồng mua bán,Luxuriously Furnished,3.4
+Quận 7,42.8,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Bình Thạnh,95.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Quận 7,43.7,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Phú Nhuận,25.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 10,73.0,2,2,Đang chờ sổ,Fully Furnished,4.85
+Quận 8,44.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.95
+Nhà Bè,93.0,2,2,Hợp đồng mua bán,Basic,3.8
+Quận 6,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.45
+Bình Thạnh,95.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Quận 2,67.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.9
+Quận 2,49.2,2,2,Sổ đỏ/Sổ hồng,Basic,4.0
+Bình Thạnh,62.0,7,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 6,102.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.13
+Quận 7,50.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Bình Tân,50.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Bình Tân,36.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Quận 7,69.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.1
+Bình Tân,36.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Quận 8,115.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.35
+Quận 12,35.3,4,4,Sổ đỏ/Sổ hồng,Basic,3.35
+Tân Phú,104.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.4
+Bình Tân,72.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Tân Bình,74.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Tân Phú,81.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 10,74.0,2,2,Hợp đồng mua bán,Fully Furnished,3.7
+Tân Phú,81.0,3,2,Hợp đồng mua bán,Fully Furnished,4.0
+Thủ Đức,77.0,2,2,Hợp đồng mua bán,Basic,4.0
+Quận 10,74.0,2,2,Hợp đồng mua bán,Fully Furnished,3.7
+Quận 7,65.0,2,2,Hợp đồng mua bán,Basic,3.5
+Bình Thạnh,141.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.3
+Quận 4,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Bình Tân,82.3,4,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.29
+Quận 11,62.7,5,5,Sổ đỏ/Sổ hồng,Fully Furnished,3.45
+Tân Phú,92.0,3,2,Hợp đồng mua bán,Fully Furnished,3.4
+Thủ Đức,100.0,3,3,Sổ đỏ/Sổ hồng,Basic,4.95
+Gò Vấp,85.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Gò Vấp,85.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Tân Bình,80.0,2,2,Hợp đồng mua bán,Basic,3.8
+Tân Bình,63.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Quận 8,37.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.05
+Quận 7,78.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.7
+Quận 2,48.2,1,1,Hợp đồng mua bán,Basic,5.0
+Bình Tân,72.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Quận 3,31.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.99
+Quận 2,58.0,1,2,Hợp đồng mua bán,Luxuriously Furnished,4.4
+Quận 7,89.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.55
+Tân Phú,96.0,2,2,Hợp đồng mua bán,Basic,4.9
+Gò Vấp,37.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Tân Phú,30.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.45
+Tân Phú,30.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.45
+Bình Tân,66.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.55
+Bình Thạnh,90.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Thủ Đức,63.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 2,50.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 12,56.0,4,3,Sổ đỏ/Sổ hồng,Basic,3.25
+Quận 6,78.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Bình Thạnh,48.0,4,3,Sổ đỏ/Sổ hồng,Basic,4.95
+Quận 6,72.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Quận 7,76.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.85
+Tân Phú,56.0,1,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 2,71.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Tân Phú,71.0,2,1,Hợp đồng mua bán,Fully Furnished,3.04
+Nhà Bè,94.0,3,2,Hợp đồng mua bán,Fully Furnished,3.8
+Tân Phú,95.0,3,2,Hợp đồng mua bán,Fully Furnished,3.5
+Nhà Bè,95.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Bình Thạnh,33.0,3,3,Sổ đỏ/Sổ hồng,Basic,4.8
+Gò Vấp,35.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Tân Phú,71.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Bình Tân,40.0,2,2,Sổ đỏ/Sổ hồng,Unfurnished,4.2
+Tân Phú,82.0,3,2,Sổ đỏ/Sổ hồng,Unfurnished,3.3
+Bình Thạnh,36.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 2,68.5,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Tân Bình,48.2,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Bình Thạnh,25.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Bình Thạnh,23.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Bình Thạnh,39.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.55
+Bình Thạnh,18.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Bình Thạnh,73.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Quận 4,79.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Quận 7,97.6,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Quận 7,133.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.2
+Tân Phú,94.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Bình Thạnh,33.0,2,3,Sổ đỏ/Sổ hồng,Basic,5.0
+Quận 7,95.0,3,2,Sổ đỏ/Sổ hồng,Basic,5.0
+Quận 7,66.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Quận 10,72.0,2,2,Hợp đồng mua bán,Basic,4.95
+Quận 9,50.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Bình Thạnh,36.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Bình Thạnh,25.0,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Quận 7,86.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Bình Thạnh,24.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Bình Thạnh,46.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.75
+Quận 11,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Quận 10,72.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.15
+Quận 8,36.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Gò Vấp,35.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 7,130.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.75
+Quận 4,59.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Quận 7,90.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.5
+Tân Bình,60.0,2,1,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.5
+Quận 12,52.0,2,2,Hợp đồng mua bán,Fully Furnished,4.25
+Tân Phú,48.0,2,2,Hợp đồng mua bán,Fully Furnished,4.0
+Tân Phú,48.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 7,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.15
+Quận 9,66.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.05
+Tân Bình,100.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Bình Thạnh,68.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Bình Chánh,71.0,2,2,Hợp đồng mua bán,Basic,3.2
+Quận 7,139.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Bình Chánh,71.0,2,2,Hợp đồng mua bán,Basic,3.2
+Tân Phú,21.0,2,1,Sổ đỏ/Sổ hồng,Basic,3.17
+Quận 7,56.0,1,1,Hợp đồng mua bán,Basic,3.95
+Quận 6,68.0,2,2,Hợp đồng mua bán,Unfurnished,3.1
+Quận 2,71.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.7
+Quận 7,91.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.85
+Bình Tân,36.0,6,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Gò Vấp,69.0,3,4,Sổ đỏ/Sổ hồng,Basic,4.7
+Quận 2,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 2,55.0,1,1,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.3
+Quận 2,86.0,3,2,Hợp đồng mua bán,Fully Furnished,4.8
+Quận 2,55.0,1,1,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.3
+Phú Nhuận,85.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,5.0
+Quận 2,71.5,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Quận 2,68.5,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 7,56.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.2
+Quận 9,90.0,4,4,Sổ đỏ/Sổ hồng,Unfurnished,5.0
+Phú Nhuận,41.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 9,90.0,3,2,Hợp đồng mua bán,Fully Furnished,3.0
+Quận 5,81.0,3,2,Hợp đồng mua bán,Fully Furnished,3.0
+Quận 8,85.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Tân Phú,27.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.5
+Tân Phú,104.0,3,2,Hợp đồng mua bán,Luxuriously Furnished,4.7
+Tân Phú,104.0,3,2,Đang chờ sổ,Fully Furnished,4.4
+Quận 9,100.0,3,2,Sổ đỏ/Sổ hồng,Basic,46.0
+Quận 7,95.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,5.0
+Quận 8,81.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.18
+Tân Bình,74.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.69
+Quận 7,117.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Tân Bình,99.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 7,112.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.5
+Quận 7,76.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,5.0
+Gò Vấp,75.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Quận 10,88.0,2,2,Hợp đồng mua bán,Basic,4.6
+Phú Nhuận,53.0,1,1,Hợp đồng mua bán,Basic,3.6
+Quận 10,63.0,2,1,Hợp đồng mua bán,Basic,3.5
+Quận 10,74.0,2,2,Hợp đồng mua bán,Basic,3.8
+Phú Nhuận,75.0,2,2,Hợp đồng mua bán,Fully Furnished,4.2
+Quận 3,48.0,3,4,Sổ đỏ/Sổ hồng,Basic,4.25
+Tân Phú,83.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.85
+Tân Phú,71.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Phú Nhuận,40.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.65
+Quận 9,99.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.25
+Quận 4,65.0,2,2,Hợp đồng mua bán,Fully Furnished,4.5
+Quận 7,140.0,3,2,Hợp đồng mua bán,Fully Furnished,4.5
+Phú Nhuận,72.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Quận 3,58.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.7
+Quận 6,86.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Quận 6,86.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Tân Phú,71.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Tân Phú,71.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Tân Phú,77.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.2
+Tân Phú,83.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.0
+Quận 2,51.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Phú Nhuận,88.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.1
+Quận 4,23.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 7,95.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.9
+Bình Tân,78.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Quận 7,110.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.15
+Quận 7,110.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.15
+Thủ Đức,76.0,2,2,Hợp đồng mua bán,Fully Furnished,3.5
+Quận 2,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Phú Nhuận,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 3,81.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Tân Bình,70.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.6
+Tân Phú,86.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.65
+Bình Tân,80.0,2,2,Sổ đỏ/Sổ hồng,Basic,5.0
+Quận 2,84.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 6,37.0,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.95
+Quận 2,84.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 6,37.0,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.95
+Quận 2,65.0,2,2,Hợp đồng mua bán,Basic,4.25
+Bình Thạnh,60.0,1,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Quận 1,55.8,5,5,Sổ đỏ/Sổ hồng,Basic,5.0
+Tân Phú,71.0,2,2,Hợp đồng mua bán,Basic,3.23
+Tân Phú,78.0,2,2,Hợp đồng mua bán,Basic,3.0
+Tân Phú,86.0,2,2,Hợp đồng mua bán,Basic,3.75
+Quận 2,97.0,3,2,Hợp đồng mua bán,Fully Furnished,3.85
+Quận 6,87.0,2,2,Hợp đồng mua bán,Basic,3.0
+Quận 3,40.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Quận 9,82.0,3,2,Hợp đồng mua bán,Fully Furnished,3.33
+Quận 2,70.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.3
+Quận 10,73.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,5.0
+Bình Chánh,67.0,2,2,Hợp đồng mua bán,Luxuriously Furnished,3.0
+Quận 12,54.0,4,5,Sổ đỏ/Sổ hồng,Basic,3.8
+Quận 3,48.2,8,8,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 11,75.0,2,2,Sổ đỏ/Sổ hồng,Unfurnished,3.8
+Gò Vấp,50.1,5,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.15
+Quận 11,72.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Quận 2,71.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Quận 3,65.0,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Tân Phú,84.0,2,2,Hợp đồng mua bán,Fully Furnished,3.85
+Quận 3,58.0,2,1,Hợp đồng mua bán,Fully Furnished,4.39
+Quận 7,69.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Phú Nhuận,40.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 1,50.0,1,1,Hợp đồng mua bán,Fully Furnished,4.8
+Gò Vấp,43.5,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.65
+Quận 7,28.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Quận 7,82.5,2,1,Sổ đỏ/Sổ hồng,Basic,4.4
+Quận 7,28.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Thủ Đức,84.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 7,53.2,2,1,Sổ đỏ/Sổ hồng,Basic,4.8
+Bình Thạnh,68.0,2,2,Hợp đồng mua bán,Basic,3.4
+Bình Thạnh,86.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.4
+Gò Vấp,40.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.58
+Gò Vấp,30.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.38
+Quận 9,80.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Gò Vấp,38.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.15
+Quận 2,68.0,2,2,Sổ đỏ/Sổ hồng,Unfurnished,3.6
+Quận 6,80.0,2,2,Sổ đỏ/Sổ hồng,Unfurnished,3.5
+Quận 2,50.0,1,2,Sổ đỏ/Sổ hồng,Unfurnished,4.6
+Quận 9,50.0,1,2,Sổ đỏ/Sổ hồng,Unfurnished,4.7
+Bình Thạnh,62.0,7,3,Sổ đỏ/Sổ hồng,Basic,4.7
+Bình Thạnh,41.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.9
+Tân Phú,71.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.18
+Tân Phú,71.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.1
+Bình Chánh,113.0,3,2,Hợp đồng mua bán,Fully Furnished,4.05
+Phú Nhuận,56.0,2,1,Hợp đồng mua bán,Fully Furnished,3.5
+Quận 5,42.0,2,1,Hợp đồng mua bán,Fully Furnished,3.54
+Bình Thạnh,86.0,3,1,Hợp đồng mua bán,Fully Furnished,4.5
+Tân Bình,74.0,2,2,Hợp đồng mua bán,Fully Furnished,3.8
+Quận 9,36.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Nhà Bè,101.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 7,110.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.98
+Quận 7,118.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,5.0
+Quận 7,88.0,2,2,Đang chờ sổ,Basic,5.0
+Quận 7,116.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.7
+Hóc Môn,83.0,3,2,Sổ đỏ/Sổ hồng,Unfurnished,4.0
+Quận 4,32.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Quận 11,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Quận 7,86.0,3,2,Hợp đồng mua bán,Fully Furnished,3.35
+Thủ Đức,71.0,2,2,Hợp đồng mua bán,Fully Furnished,3.1
+Phú Nhuận,75.0,2,2,Hợp đồng mua bán,Fully Furnished,4.6
+Tân Phú,60.0,2,2,Hợp đồng mua bán,Fully Furnished,3.0
+Phú Nhuận,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Quận 5,50.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Thủ Đức,87.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.9
+Quận 2,63.47,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.39
+Tân Bình,74.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 7,60.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Quận 8,100.5,2,2,Sổ đỏ/Sổ hồng,Unfurnished,3.1
+Quận 9,82.5,3,2,Sổ đỏ/Sổ hồng,Unfurnished,37.8
+Quận 10,55.9,4,3,Sổ đỏ/Sổ hồng,Basic,4.25
+Quận 10,62.5,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.25
+Quận 3,48.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.21
+Quận 2,97.0,2,1,Sổ đỏ/Sổ hồng,Basic,4.1
+Quận 1,50.0,1,1,Hợp đồng mua bán,Fully Furnished,4.75
+Quận 7,80.0,2,2,Hợp đồng mua bán,Unfurnished,4.9
+Quận 4,42.0,5,5,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.49
+Thủ Đức,35.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Tân Phú,104.0,3,2,Sổ đỏ/Sổ hồng,Unfurnished,4.4
+Quận 4,105.0,3,2,Sổ đỏ/Sổ hồng,Unfurnished,4.6
+Quận 12,52.0,5,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.55
+Quận 11,72.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.98
+Quận 6,127.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 4,60.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.12
+Tân Phú,93.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 4,87.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 2,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.15
+Quận 2,68.0,2,2,Hợp đồng mua bán,Fully Furnished,3.55
+Quận 7,82.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Quận 7,100.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 7,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Quận 2,86.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.05
+Quận 3,78.2,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 6,69.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.55
+Quận 6,86.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.15
+Quận 6,87.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.43
+Quận 12,50.5,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.85
+Quận 9,87.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 7,111.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 8,101.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.65
+Quận 12,50.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.45
+Tân Phú,48.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.95
+Quận 9,80.0,2,2,Hợp đồng mua bán,Basic,3.7
+Tân Phú,84.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.0
+Quận 7,43.7,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.65
+Phú Nhuận,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Phú Nhuận,84.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Phú Nhuận,72.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Tân Phú,86.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Tân Phú,105.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Tân Bình,92.0,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.69
+Tân Phú,85.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Quận 9,50.0,2,1,Sổ đỏ/Sổ hồng,Basic,4.4
+Bình Thạnh,66.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.25
+Bình Thạnh,86.0,3,2,Hợp đồng mua bán,Basic,4.5
+Quận 9,52.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.9
+Thủ Đức,220.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.8
+Tân Phú,83.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.7
+Tân Phú,85.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 7,113.9,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Tân Phú,41.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Quận 7,80.0,3,2,Sổ đỏ/Sổ hồng,Basic,5.0
+Tân Phú,41.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Quận 7,80.0,3,2,Sổ đỏ/Sổ hồng,Basic,5.0
+Quận 10,60.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.45
+Quận 12,55.0,4,5,Sổ đỏ/Sổ hồng,Basic,4.99
+Quận 12,56.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.78
+Quận 12,56.0,4,5,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.25
+Quận 7,72.0,2,2,Công chứng ngay,Basic,3.25
+Quận 5,38.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.19
+Quận 1,38.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Tân Phú,105.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.95
+Quận 2,48.0,1,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Quận 2,68.0,2,2,Sổ đỏ/Sổ hồng,Unfurnished,4.0
+Quận 9,53.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Quận 10,74.0,2,2,Hợp đồng mua bán,Basic,3.8
+Quận 9,55.0,3,4,Hợp đồng mua bán,Basic,4.75
+Quận 3,30.0,2,2,Hợp đồng mua bán,Basic,4.45
+Quận 7,107.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Phú Nhuận,75.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.35
+Quận 9,60.0,2,3,Hợp đồng mua bán,Fully Furnished,4.9
+Quận 12,63.0,4,5,Sổ đỏ/Sổ hồng,Fully Furnished,3.85
+Gò Vấp,121.0,3,2,Hợp đồng mua bán,Fully Furnished,4.6
+Bình Tân,54.0,4,5,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.9
+Tân Phú,71.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.0
+Bình Tân,60.0,4,5,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.9
+Bình Tân,60.0,4,5,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.0
+Bình Tân,49.2,4,5,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.9
+Bình Tân,50.0,4,6,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.5
+Quận 2,72.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.6
+Tân Bình,85.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.1
+Quận 6,79.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Quận 11,55.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 4,90.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Tân Bình,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Gò Vấp,48.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.3
+Quận 7,47.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Gò Vấp,48.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.3
+Bình Thạnh,92.0,3,3,Hợp đồng mua bán,Fully Furnished,4.0
+Tân Phú,85.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 11,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Quận 1,48.0,1,1,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.8
+Quận 7,116.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Gò Vấp,60.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.65
+Bình Tân,49.0,2,1,Sổ đỏ/Sổ hồng,Basic,3.6
+Bình Tân,65.0,3,3,Sổ đỏ/Sổ hồng,Basic,4.65
+Quận 7,268.0,5,5,Hợp đồng mua bán,Basic,3.8
+Bình Thạnh,110.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Gò Vấp,45.0,3,3,Sổ đỏ/Sổ hồng,Basic,4.9
+Bình Thạnh,65.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.75
+Gò Vấp,35.0,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Gò Vấp,35.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Gò Vấp,35.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Gò Vấp,31.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Gò Vấp,32.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.35
+Quận 7,77.0,3,2,Công chứng ngay,Unfurnished,3.3
+Quận 7,85.0,3,2,Công chứng ngay,Fully Furnished,3.6
+Quận 7,80.0,2,2,Công chứng ngay,Fully Furnished,3.5
+Quận 7,68.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.15
+Quận 9,90.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.39
+Bình Tân,64.4,6,6,Sổ đỏ/Sổ hồng,Basic,4.8
+Tân Bình,48.8,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.97
+Thủ Đức,51.6,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.35
+Bình Thạnh,86.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.17
+Gò Vấp,36.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.85
+Quận 9,100.0,2,2,Hợp đồng mua bán,Fully Furnished,3.2
+Tân Phú,50.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.35
+Bình Tân,56.0,4,2,Sổ đỏ/Sổ hồng,Basic,3.65
+Gò Vấp,34.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.2
+Quận 2,85.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.7
+Quận 12,56.0,4,4,Sổ đỏ/Sổ hồng,Basic,4.8
+Quận 7,38.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Quận 10,56.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Thủ Đức,48.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Thủ Đức,60.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.85
+Bình Thạnh,99.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.85
+Quận 3,47.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.24
+Tân Bình,66.6,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Nhà Bè,129.83,3,3,Sổ đỏ/Sổ hồng,Basic,3.2
+Quận 8,69.5,2,2,Sổ đỏ/Sổ hồng,Unfurnished,3.18
+Bình Thạnh,67.0,2,2,Sổ đỏ/Sổ hồng,Unfurnished,3.69
+Bình Thạnh,57.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.95
+Nhà Bè,74.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Bình Thạnh,64.0,3,2,Sổ đỏ/Sổ hồng,Basic,5.0
+Bình Thạnh,40.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.85
+Bình Thạnh,40.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.85
+Thủ Đức,71.0,2,2,Hợp đồng mua bán,Fully Furnished,3.45
+Quận 2,64.0,2,2,Công chứng ngay,Fully Furnished,3.7
+Thủ Đức,83.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Bình Tân,60.0,2,1,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.0
+Tân Phú,50.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.35
+Gò Vấp,40.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Gò Vấp,40.0,4,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.38
+Quận 9,50.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Tân Phú,48.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Thủ Đức,66.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Tân Phú,30.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.05
+Quận 9,60.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.25
+Quận 7,82.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Quận 4,60.0,2,1,Hợp đồng mua bán,Fully Furnished,4.2
+Thủ Đức,70.0,2,2,Hợp đồng mua bán,Basic,3.95
+Quận 2,85.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 8,56.4,3,2,Sổ đỏ/Sổ hồng,Basic,5.0
+Quận 9,56.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.6
+Quận 10,60.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Bình Tân,72.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Gò Vấp,35.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.58
+Quận 9,42.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.6
+Quận 2,76.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.85
+Quận 9,71.6,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.35
+Quận 2,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Tân Bình,50.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Tân Phú,107.0,3,2,Hợp đồng mua bán,Fully Furnished,5.0
+Bình Thạnh,139.0,3,2,Hợp đồng mua bán,Luxuriously Furnished,4.5
+Tân Phú,85.0,2,2,Đang chờ sổ,Basic,4.3
+Quận 2,65.0,2,2,Hợp đồng mua bán,Basic,3.6
+Tân Phú,92.0,3,2,Hợp đồng mua bán,Fully Furnished,3.3
+Quận 9,74.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 2,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 2,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Bình Thạnh,38.4,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 7,45.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Quận 9,42.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Bình Tân,100.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 12,36.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.18
+Bình Thạnh,38.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Bình Thạnh,99.0,6,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Bình Thạnh,73.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.75
+Bình Thạnh,66.0,2,2,Đang chờ sổ,Fully Furnished,3.75
+Quận 8,87.0,3,2,Đang chờ sổ,Unfurnished,3.8
+Bình Tân,34.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Quận 4,54.4,3,3,Sổ đỏ/Sổ hồng,Basic,3.6
+Bình Chánh,76.0,3,2,Hợp đồng mua bán,Luxuriously Furnished,3.5
+Quận 8,60.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.35
+Quận 6,100.0,3,2,Hợp đồng mua bán,Basic,3.45
+Phú Nhuận,93.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Tân Bình,69.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.46
+Tân Phú,64.0,1,1,Sổ đỏ/Sổ hồng,Basic,5.0
+Quận 2,74.9,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.18
+Gò Vấp,60.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.75
+Bình Thạnh,62.9,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.35
+Quận 6,86.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.1
+Gò Vấp,41.0,2,3,Sổ đỏ/Sổ hồng,Basic,3.95
+Quận 7,72.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.3
+Tân Bình,48.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.48
+Quận 10,74.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Quận 10,34.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.99
+Bình Tân,73.0,2,2,Đang chờ sổ,Fully Furnished,3.2
+Tân Phú,88.8,2,2,Đang chờ sổ,Fully Furnished,4.6
+Tân Phú,92.5,2,2,Hợp đồng mua bán,Fully Furnished,4.4
+Tân Phú,96.0,2,2,Hợp đồng mua bán,Fully Furnished,4.35
+Tân Phú,57.84,3,3,Sổ đỏ/Sổ hồng,Basic,3.4
+Bình Tân,98.0,3,2,Sổ đỏ/Sổ hồng,Basic,5.0
+Thủ Đức,77.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Tân Bình,65.0,3,4,Sổ đỏ/Sổ hồng,Basic,4.99
+Quận 12,46.3,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.25
+Quận 3,58.5,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.36
+Tân Phú,71.0,2,2,Hợp đồng mua bán,Fully Furnished,3.2
+Quận 2,48.0,1,1,Hợp đồng mua bán,Fully Furnished,4.0
+Tân Bình,49.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Quận 12,52.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Tân Phú,98.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 5,68.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.35
+Quận 6,77.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Bình Thạnh,80.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.15
+Quận 4,75.0,2,2,Hợp đồng mua bán,Fully Furnished,4.5
+Hóc Môn,100.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Nhà Bè,95.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Quận 4,67.0,1,2,Sổ đỏ/Sổ hồng,Basic,5.0
+Tân Phú,91.0,3,2,Hợp đồng mua bán,Fully Furnished,3.7
+Tân Phú,48.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Tân Phú,48.0,3,3,Sổ đỏ/Sổ hồng,Basic,4.1
+Tân Phú,60.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Tân Bình,28.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Gò Vấp,52.5,4,5,Sổ đỏ/Sổ hồng,Fully Furnished,3.45
+Gò Vấp,35.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Tân Phú,84.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 10,65.0,6,5,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Quận 9,76.0,2,1,Sổ đỏ/Sổ hồng,Basic,3.2
+Tân Phú,78.0,2,2,Hợp đồng mua bán,Fully Furnished,3.05
+Quận 2,76.0,2,2,Hợp đồng mua bán,Fully Furnished,3.85
+Bình Thạnh,72.0,2,2,Hợp đồng mua bán,Fully Furnished,3.9
+Quận 7,89.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Quận 2,100.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Bình Thạnh,95.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.6
+Quận 1,40.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.19
+Quận 1,52.0,4,5,Sổ đỏ/Sổ hồng,Fully Furnished,3.88
+Bình Chánh,65.0,2,2,Hợp đồng mua bán,Luxuriously Furnished,3.5
+Bình Thạnh,68.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Bình Chánh,83.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.74
+Bình Thạnh,95.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.5
+Bình Thạnh,28.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 2,73.0,2,2,Hợp đồng mua bán,Fully Furnished,3.8
+Quận 3,58.0,2,1,Hợp đồng mua bán,Basic,4.2
+Quận 7,106.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Bình Thạnh,86.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 7,115.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Gò Vấp,49.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Quận 4,33.0,3,5,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.79
+Gò Vấp,47.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Quận 12,120.0,2,2,Hợp đồng mua bán,Fully Furnished,3.0
+Quận 2,80.0,3,2,Hợp đồng mua bán,Fully Furnished,4.09
+Quận 9,54.6,3,3,Sổ đỏ/Sổ hồng,Basic,4.6
+Quận 10,40.0,3,3,Sổ đỏ/Sổ hồng,Basic,5.0
+Tân Phú,60.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.25
+Phú Nhuận,96.0,6,7,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.2
+Bình Chánh,78.0,2,2,Hợp đồng mua bán,Fully Furnished,3.5
+Tân Phú,82.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.05
+Bình Tân,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.59
+Quận 9,99.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Bình Thạnh,68.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.75
+Bình Thạnh,77.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Quận 6,83.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.1
+Quận 7,107.0,3,2,Hợp đồng mua bán,Basic,4.2
+Bình Thạnh,40.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Nhà Bè,79.7,2,2,Sổ đỏ/Sổ hồng,Unfurnished,4.99
+Tân Phú,91.0,3,2,Sổ đỏ/Sổ hồng,Unfurnished,3.5
+Quận 6,80.0,2,2,Sổ đỏ/Sổ hồng,Unfurnished,3.35
+Quận 7,118.0,3,2,Sổ đỏ/Sổ hồng,Unfurnished,4.88
+Gò Vấp,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Bình Thạnh,42.0,3,3,Sổ đỏ/Sổ hồng,Basic,4.8
+Quận 3,70.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Tân Phú,91.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 7,113.0,3,2,Hợp đồng mua bán,Basic,4.5
+Quận 6,86.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.15
+Tân Bình,95.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Phú Nhuận,75.0,2,2,Sổ đỏ/Sổ hồng,Unfurnished,4.5
+Gò Vấp,45.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Bình Thạnh,40.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.35
+Tân Bình,75.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Quận 12,60.0,4,3,Sổ đỏ/Sổ hồng,Basic,3.26
+Tân Phú,82.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Bình Tân,36.0,3,2,Công chứng ngay,Basic,4.0
+Quận 2,72.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Phú Nhuận,88.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 2,54.9,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Bình Tân,52.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Tân Phú,72.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 2,68.5,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.55
+Quận 2,87.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 12,72.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.2
+Quận 2,82.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Hóc Môn,90.0,4,4,Sổ đỏ/Sổ hồng,Basic,4.6
+Quận 12,56.0,4,3,Sổ đỏ/Sổ hồng,Basic,3.21
+Quận 2,109.0,3,2,Hợp đồng mua bán,Fully Furnished,4.95
+Quận 4,64.0,2,1,Hợp đồng mua bán,Basic,3.6
+Quận 10,33.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.3
+Quận 2,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Gò Vấp,35.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 2,78.0,2,2,Sổ đỏ/Sổ hồng,Unfurnished,3.9
+Quận 2,79.0,2,2,Sổ đỏ/Sổ hồng,Unfurnished,4.0
+Quận 2,46.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Bình Chánh,113.0,3,2,Sổ đỏ/Sổ hồng,Unfurnished,3.3
+Quận 4,65.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 4,65.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 4,74.0,2,2,Hợp đồng mua bán,Fully Furnished,4.5
+Quận 4,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Phú Nhuận,34.5,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Tân Phú,112.0,3,2,Hợp đồng mua bán,Fully Furnished,4.3
+Phú Nhuận,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 2,100.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Quận 8,87.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Tân Phú,72.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Quận 2,95.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 2,52.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.35
+Bình Thạnh,57.0,2,1,Sổ đỏ/Sổ hồng,Basic,3.05
+Bình Thạnh,38.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.3
+Quận 1,50.0,1,2,Sổ đỏ/Sổ hồng,Basic,4.8
+Quận 8,71.5,2,2,Sổ đỏ/Sổ hồng,Basic,5.0
+Tân Phú,97.0,3,2,Hợp đồng mua bán,Fully Furnished,3.35
+Gò Vấp,52.0,3,2,Hợp đồng mua bán,Fully Furnished,4.8
+Quận 12,80.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.78
+Quận 12,110.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Bình Thạnh,68.0,2,2,Hợp đồng mua bán,Fully Furnished,3.8
+Quận 8,24.5,1,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Quận 7,95.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 1,48.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Phú Nhuận,70.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 2,76.0,2,2,Hợp đồng mua bán,Basic,4.0
+Quận 2,76.0,2,2,Hợp đồng mua bán,Fully Furnished,4.35
+Quận 7,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Quận 7,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Quận 7,118.0,3,2,Hợp đồng mua bán,Luxuriously Furnished,4.8
+Tân Bình,83.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.5
+Tân Bình,41.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.25
+Quận 11,90.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Quận 10,72.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Tân Phú,59.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.08
+Quận 10,26.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Tân Bình,52.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.95
+Tân Phú,106.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 6,87.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Quận 7,90.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 7,81.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.35
+Quận 7,90.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.68
+Bình Tân,40.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.29
+Bình Chánh,71.0,2,2,Hợp đồng mua bán,Fully Furnished,3.38
+Quận 10,88.0,2,2,Hợp đồng mua bán,Basic,4.9
+Bình Chánh,78.0,2,2,Hợp đồng mua bán,Fully Furnished,3.25
+Nhà Bè,71.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Tân Phú,96.0,2,2,Hợp đồng mua bán,Basic,4.9
+Gò Vấp,52.6,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Quận 10,74.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 10,28.0,2,3,Sổ đỏ/Sổ hồng,Basic,3.75
+Quận 9,74.5,2,2,Hợp đồng mua bán,Fully Furnished,3.65
+Bình Thạnh,70.0,2,2,Hợp đồng mua bán,Basic,3.3
+Bình Tân,48.0,2,2,Hợp đồng mua bán,Unfurnished,3.0
+Phú Nhuận,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Bình Thạnh,88.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 4,43.0,1,1,Hợp đồng mua bán,Unfurnished,3.28
+Quận 7,120.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.0
+Bình Thạnh,86.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.3
+Quận 7,99.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.6
+Quận 7,76.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 9,100.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Gò Vấp,65.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 2,71.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Nhà Bè,71.0,2,2,Hợp đồng mua bán,Fully Furnished,3.3
+Nhà Bè,100.0,3,2,Đang chờ sổ,Fully Furnished,3.9
+Gò Vấp,40.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Tân Phú,96.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Phú Nhuận,34.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Bình Tân,38.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Bình Chánh,78.0,2,2,Hợp đồng mua bán,Fully Furnished,3.25
+Bình Tân,61.0,1,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.2
+Quận 7,115.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Bình Tân,145.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 12,48.0,3,4,Sổ đỏ/Sổ hồng,Basic,4.15
+Quận 12,50.0,3,3,Sổ đỏ/Sổ hồng,Basic,3.38
+Quận 12,36.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.18
+Bình Chánh,90.0,2,2,Hợp đồng mua bán,Fully Furnished,4.92
+Gò Vấp,38.9,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 9,76.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 4,74.0,2,2,Hợp đồng mua bán,Luxuriously Furnished,4.9
+Tân Bình,72.0,2,2,Hợp đồng mua bán,Luxuriously Furnished,4.0
+Gò Vấp,30.0,2,2,Hợp đồng mua bán,Luxuriously Furnished,3.5
+Tân Phú,56.0,3,3,Hợp đồng mua bán,Luxuriously Furnished,4.4
+Bình Tân,93.0,2,2,Hợp đồng mua bán,Luxuriously Furnished,4.1
+Quận 6,86.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.2
+Quận 3,76.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.3
+Quận 4,80.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Quận 2,68.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.6
+Quận 10,74.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.9
+Quận 4,80.88,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Quận 4,80.88,2,2,Hợp đồng mua bán,Basic,3.5
+Phú Nhuận,83.0,2,2,Hợp đồng mua bán,Basic,5.0
+Quận 7,99.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 2,56.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 11,45.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Tân Bình,73.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Tân Phú,104.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Tân Phú,72.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 10,30.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.25
+Quận 6,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Quận 11,28.0,2,2,Sổ đỏ/Sổ hồng,Basic,5.0
+Gò Vấp,31.5,2,2,Sổ đỏ/Sổ hồng,Basic,3.55
+Thủ Đức,78.0,4,4,Sổ đỏ/Sổ hồng,Basic,3.15
+Quận 12,60.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.0
+Quận 12,48.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.75
+Quận 2,68.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.45
+Tân Bình,74.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Tân Phú,80.0,3,2,Hợp đồng mua bán,Fully Furnished,3.0
+Quận 4,82.5,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 4,75.0,2,2,Hợp đồng mua bán,Fully Furnished,4.5
+Quận 4,60.0,2,1,Hợp đồng mua bán,Fully Furnished,4.3
+Quận 4,73.0,2,2,Hợp đồng mua bán,Fully Furnished,4.7
+Gò Vấp,40.9,4,5,Sổ đỏ/Sổ hồng,Fully Furnished,4.98
+Tân Phú,80.0,3,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.25
+Gò Vấp,55.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Tân Phú,97.0,3,2,Hợp đồng mua bán,Fully Furnished,3.35
+Tân Bình,72.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.1
+Bình Thạnh,39.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.35
+Phú Nhuận,75.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.7
+Bình Thạnh,42.0,3,3,Sổ đỏ/Sổ hồng,Basic,4.5
+Phú Nhuận,19.0,2,3,Sổ đỏ/Sổ hồng,Basic,3.3
+Quận 10,60.0,1,1,Sổ đỏ/Sổ hồng,Basic,4.31
+Bình Chánh,130.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.89
+Quận 2,91.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Quận 2,75.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 9,78.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 5,44.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 12,85.0,3,3,Sổ đỏ/Sổ hồng,Basic,4.15
+Quận 6,82.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.15
+Quận 12,93.0,4,4,Công chứng ngay,Basic,4.6
+Quận 8,115.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Thủ Đức,51.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 8,115.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 1,48.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.29
+Bình Thạnh,87.0,2,4,Sổ đỏ/Sổ hồng,Basic,3.5
+Quận 7,75.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Bình Tân,50.0,5,5,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 6,110.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 4,26.5,3,4,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.7
+Gò Vấp,45.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Bình Tân,50.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Quận 8,58.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Tân Phú,71.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Tân Phú,83.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.1
+Tân Bình,80.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.9
+Quận 12,60.0,2,1,Sổ đỏ/Sổ hồng,Basic,3.3
+Bình Tân,121.0,3,3,Hợp đồng mua bán,Basic,4.0
+Bình Tân,56.0,4,5,Sổ đỏ/Sổ hồng,Fully Furnished,4.35
+Bình Tân,55.0,5,5,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Thủ Đức,80.0,2,2,Sổ đỏ/Sổ hồng,Basic,42.0
+Quận 9,73.0,2,2,Hợp đồng mua bán,Basic,3.4
+Quận 9,48.6,2,1,Sổ đỏ/Sổ hồng,Basic,4.3
+Quận 12,67.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.9
+Quận 12,48.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.57
+Quận 4,90.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.2
+Quận 10,53.0,1,1,Hợp đồng mua bán,Fully Furnished,4.65
+Bình Tân,52.3,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Quận 10,53.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.65
+Tân Phú,80.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 12,52.0,4,5,Sổ đỏ/Sổ hồng,Basic,4.19
+Quận 5,40.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.62
+Thủ Đức,59.3,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.44
+Quận 2,61.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.0
+Tân Phú,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.35
+Quận 6,79.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Tân Bình,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Tân Phú,83.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 6,102.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Quận 7,32.2,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Tân Phú,60.0,3,2,Hợp đồng mua bán,Fully Furnished,4.45
+Quận 6,80.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.3
+Bình Thạnh,109.4,2,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Quận 10,27.0,2,3,Sổ đỏ/Sổ hồng,Basic,3.65
+Quận 10,28.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.6
+Tân Phú,96.0,2,2,Hợp đồng mua bán,Basic,4.65
+Tân Phú,85.0,2,2,Hợp đồng mua bán,Basic,4.7
+Quận 2,38.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Quận 9,66.3,2,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Quận 4,105.0,3,2,Sổ đỏ/Sổ hồng,Basic,5.0
+Quận 10,70.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Tân Phú,84.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Quận 10,88.0,2,2,Hợp đồng mua bán,Basic,4.8
+Quận 6,35.3,2,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Quận 7,67.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.03
+Tân Bình,63.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.35
+Quận 5,54.0,4,2,Sổ đỏ/Sổ hồng,Basic,3.05
+Quận 10,60.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.55
+Quận 8,45.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.09
+Gò Vấp,42.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.55
+Quận 9,60.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 9,79.9,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 7,73.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 2,57.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 7,71.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.2
+Quận 12,52.9,5,4,Sổ đỏ/Sổ hồng,Basic,4.55
+Quận 7,71.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Quận 7,74.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.55
+Quận 7,70.0,2,2,Hợp đồng mua bán,Basic,3.55
+Tân Phú,52.0,2,2,Hợp đồng mua bán,Basic,4.55
+Tân Bình,57.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.38
+Quận 2,80.0,2,2,Hợp đồng mua bán,Basic,4.65
+Quận 7,66.0,2,2,Hợp đồng mua bán,Fully Furnished,3.55
+Quận 7,66.0,2,2,Hợp đồng mua bán,Fully Furnished,3.55
+Bình Thạnh,83.3,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Quận 7,44.0,1,1,Đang chờ sổ,Fully Furnished,3.1
+Bình Thạnh,95.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Bình Thạnh,95.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.45
+Bình Thạnh,85.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.18
+Bình Thạnh,95.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.6
+Quận 10,74.0,2,2,Hợp đồng mua bán,Basic,3.9
+Bình Thạnh,105.0,3,2,Hợp đồng mua bán,Fully Furnished,3.9
+Quận 10,78.0,2,2,Hợp đồng mua bán,Fully Furnished,4.1
+Quận 10,88.0,2,2,Hợp đồng mua bán,Fully Furnished,4.7
+Quận 10,62.0,2,1,Hợp đồng mua bán,Fully Furnished,3.5
+Quận 8,66.7,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.75
+Quận 2,95.0,3,2,Đang chờ sổ,Luxuriously Furnished,4.95
+Thủ Đức,113.0,10,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 7,98.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 2,55.0,1,1,Hợp đồng mua bán,Fully Furnished,4.3
+Bình Thạnh,51.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 2,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 2,50.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.92
+Bình Tân,68.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,55.0
+Quận 2,56.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.15
+Thủ Đức,70.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Quận 7,48.0,1,1,Sổ đỏ/Sổ hồng,Basic,3.7
+Quận 7,96.0,3,2,Hợp đồng mua bán,Unfurnished,3.55
+Quận 2,68.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.55
+Quận 4,91.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.25
+Quận 6,48.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Quận 4,80.0,2,2,Hợp đồng mua bán,Fully Furnished,4.1
+Bình Tân,79.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Bình Tân,56.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.75
+Tân Phú,104.0,3,2,Đang chờ sổ,Basic,4.25
+Quận 7,99.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 2,65.0,2,2,Hợp đồng mua bán,Fully Furnished,3.6
+Tân Bình,62.0,4,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Thủ Đức,61.3,3,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 2,76.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.85
+Quận 3,94.7,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Tân Bình,80.0,2,2,Hợp đồng mua bán,Fully Furnished,3.8
+Quận 7,114.0,3,2,Hợp đồng mua bán,Fully Furnished,3.25
+Quận 7,81.94,2,1,Hợp đồng mua bán,Fully Furnished,3.0
+Bình Chánh,95.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Bình Thạnh,85.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.2
+Quận 7,55.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.25
+Quận 2,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.23
+Bình Tân,56.0,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Bình Thạnh,141.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Quận 7,88.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Bình Thạnh,66.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Bình Thạnh,141.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Bình Thạnh,68.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Quận 12,84.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.95
+Quận 2,74.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 2,74.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 4,60.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Tân Bình,72.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 2,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.35
+Bình Tân,54.1,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 12,44.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Bình Tân,79.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Quận 2,71.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.65
+Quận 9,76.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.2
+Quận 2,62.3,2,2,Sổ đỏ/Sổ hồng,Basic,3.65
+Bình Tân,60.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.9
+Bình Thạnh,74.0,6,2,Sổ đỏ/Sổ hồng,Basic,4.7
+Quận 7,146.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Quận 10,25.6,2,2,Sổ đỏ/Sổ hồng,Basic,4.85
+Bình Thạnh,115.0,3,3,Sổ đỏ/Sổ hồng,Basic,3.89
+Quận 11,75.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.7
+Quận 8,109.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.55
+Tân Phú,84.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.85
+Quận 2,81.0,2,2,Đang chờ sổ,Luxuriously Furnished,4.21
+Quận 7,86.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Quận 9,100.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 2,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 9,76.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.35
+Quận 2,68.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.95
+Quận 9,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.08
+Quận 7,66.66,2,2,Hợp đồng mua bán,Fully Furnished,3.05
+Quận 6,100.0,3,2,Hợp đồng mua bán,Fully Furnished,3.5
+Tân Phú,104.0,3,2,Hợp đồng mua bán,Fully Furnished,4.55
+Quận 4,80.0,2,2,Đang chờ sổ,Fully Furnished,3.8
+Tân Phú,84.0,2,2,Hợp đồng mua bán,Fully Furnished,3.85
+Tân Phú,104.0,3,2,Hợp đồng mua bán,Basic,4.05
+Quận 7,80.0,3,2,Hợp đồng mua bán,Basic,5.0
+Gò Vấp,59.0,3,2,Hợp đồng mua bán,Basic,3.9
+Nhà Bè,83.0,3,2,Hợp đồng mua bán,Fully Furnished,3.6
+Tân Phú,95.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Tân Phú,40.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Tân Phú,91.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Phú Nhuận,21.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.87
+Quận 2,84.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.75
+Quận 9,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 8,84.0,2,2,Hợp đồng mua bán,Fully Furnished,3.35
+Quận 2,52.0,1,1,Hợp đồng mua bán,Basic,4.4
+Quận 7,77.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Tân Phú,83.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Tân Bình,70.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.6
+Nhà Bè,40.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.7
+Tân Phú,85.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.3
+Quận 2,61.0,2,2,Hợp đồng mua bán,Fully Furnished,3.8
+Quận 2,82.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 9,70.0,2,2,Hợp đồng mua bán,Fully Furnished,3.6
+Bình Tân,64.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 6,76.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 6,97.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 7,66.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.75
+Quận 10,77.0,2,2,Sổ đỏ/Sổ hồng,Basic,5.0
+Quận 4,90.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Quận 9,82.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.15
+Bình Tân,94.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.95
+Tân Bình,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 4,130.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.85
+Quận 7,78.0,2,2,Hợp đồng mua bán,Fully Furnished,4.5
+Quận 7,118.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Tân Phú,60.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Quận 6,39.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.9
+Quận 6,47.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Quận 11,52.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.99
+Quận 11,52.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.99
+Quận 9,50.0,1,1,Sổ đỏ/Sổ hồng,Basic,3.35
+Quận 2,58.0,1,1,Sổ đỏ/Sổ hồng,Basic,4.2
+Bình Thạnh,67.0,2,1,Sổ đỏ/Sổ hồng,Basic,3.5
+Quận 2,88.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.65
+Phú Nhuận,75.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.6
+Quận 9,127.7,1,1,Sổ đỏ/Sổ hồng,Basic,3.9
+Bình Tân,50.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Quận 7,118.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 6,83.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Quận 10,88.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.75
+Quận 7,56.3,2,2,Sổ đỏ/Sổ hồng,Basic,4.7
+Tân Phú,87.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.2
+Bình Thạnh,68.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Quận 10,53.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 2,75.0,2,2,Đang chờ sổ,Basic,3.0
+Gò Vấp,37.0,3,2,Đang chờ sổ,Basic,3.7
+Bình Chánh,113.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 2,75.0,2,2,Đang chờ sổ,Basic,3.34
+Tân Bình,72.0,2,2,Đang chờ sổ,Fully Furnished,4.5
+Tân Bình,62.0,2,2,Đang chờ sổ,Fully Furnished,4.3
+Bình Tân,75.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.1
+Tân Bình,40.0,4,4,Sổ đỏ/Sổ hồng,Basic,4.7
+Bình Thạnh,40.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.2
+Quận 2,58.5,2,2,Sổ đỏ/Sổ hồng,Basic,3.05
+Bình Thạnh,75.0,2,2,Hợp đồng mua bán,Fully Furnished,4.5
+Tân Bình,100.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Nhà Bè,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 7,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 3,60.0,2,1,Sổ đỏ/Sổ hồng,Basic,4.5
+Quận 12,52.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.38
+Quận 1,60.0,2,1,Hợp đồng mua bán,Basic,4.8
+Phú Nhuận,93.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Quận 12,64.0,5,6,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Tân Phú,52.0,2,6,Sổ đỏ/Sổ hồng,Fully Furnished,3.95
+Bình Thạnh,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Tân Phú,48.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 8,85.0,3,2,Hợp đồng mua bán,Basic,3.09
+Tân Phú,40.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.6
+Tân Phú,62.5,3,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Bình Tân,54.0,4,5,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 2,69.1,2,2,Hợp đồng mua bán,Basic,4.6
+Thủ Đức,53.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.7
+Tân Bình,44.0,2,3,Sổ đỏ/Sổ hồng,Basic,4.9
+Quận 10,70.0,2,2,Đang chờ sổ,Basic,4.3
+Quận 7,82.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 10,74.0,2,2,Hợp đồng mua bán,Basic,3.8
+Quận 6,83.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.75
+Gò Vấp,76.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.9
+Quận 7,95.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.8
+Quận 4,75.0,2,2,Hợp đồng mua bán,Fully Furnished,4.6
+Quận 7,106.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Tân Phú,50.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.35
+Quận 12,11.2,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Gò Vấp,117.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.6
+Gò Vấp,38.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.38
+Bình Tân,50.4,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 6,44.8,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 7,52.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.55
+Gò Vấp,53.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.43
+Quận 10,55.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.95
+Quận 4,44.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.89
+Quận 10,88.0,2,2,Hợp đồng mua bán,Basic,4.9
+Quận 4,65.0,2,2,Đang chờ sổ,Fully Furnished,3.9
+Quận 4,65.0,2,2,Đang chờ sổ,Fully Furnished,3.9
+Gò Vấp,38.5,2,2,Sổ đỏ/Sổ hồng,Basic,3.85
+Quận 8,70.0,2,1,Sổ đỏ/Sổ hồng,Basic,3.15
+Bình Thạnh,25.0,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Gò Vấp,54.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Bình Tân,72.0,5,5,Sổ đỏ/Sổ hồng,Basic,5.0
+Nhà Bè,52.8,4,3,Sổ đỏ/Sổ hồng,Basic,4.6
+Bình Thạnh,34.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 10,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Tân Phú,71.0,2,2,Hợp đồng mua bán,Fully Furnished,3.35
+Quận 2,79.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.18
+Thủ Đức,80.0,2,2,Hợp đồng mua bán,Basic,3.3
+Quận 9,76.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Phú Nhuận,50.0,1,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Tân Phú,85.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Quận 12,56.0,4,3,Sổ đỏ/Sổ hồng,Basic,3.19
+Quận 6,83.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Quận 6,86.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.2
+Tân Phú,86.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Bình Thạnh,68.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Thủ Đức,52.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Bình Thạnh,67.0,2,2,Hợp đồng mua bán,Basic,3.6
+Gò Vấp,120.0,3,3,Đang chờ sổ,Basic,5.0
+Quận 9,50.6,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Tân Bình,55.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 7,94.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.95
+Quận 2,64.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Quận 7,85.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.0
+Quận 2,75.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.4
+Quận 2,77.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.65
+Quận 4,76.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Phú Nhuận,77.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 12,94.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.85
+Tân Bình,84.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 12,94.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.85
+Quận 7,117.0,3,3,Sổ đỏ/Sổ hồng,Basic,26.0
+Tân Phú,71.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.3
+Quận 7,72.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.05
+Quận 7,85.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 9,82.3,3,2,Sổ đỏ/Sổ hồng,Basic,3.6
+Quận 12,56.0,4,4,Sổ đỏ/Sổ hồng,Basic,4.45
+Quận 12,60.0,4,4,Sổ đỏ/Sổ hồng,Basic,4.99
+Tân Phú,85.0,2,4,Sổ đỏ/Sổ hồng,Basic,4.25
+Quận 12,91.5,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Tân Phú,88.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Tân Phú,85.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.38
+Gò Vấp,53.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.53
+Quận 4,81.0,3,2,Hợp đồng mua bán,Fully Furnished,4.75
+Quận 8,49.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 12,64.0,4,4,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.6
+Tân Bình,98.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Tân Bình,25.0,2,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.78
+Quận 7,76.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 4,75.0,2,2,Hợp đồng mua bán,Fully Furnished,4.5
+Quận 9,52.0,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 8,35.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.45
+Thủ Đức,46.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Quận 10,25.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Tân Bình,60.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Bình Thạnh,27.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.45
+Bình Thạnh,25.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 8,48.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Quận 8,60.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.0
+Quận 8,41.3,1,1,Sổ đỏ/Sổ hồng,Basic,4.35
+Quận 8,41.4,2,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Quận 8,38.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.2
+Quận 8,42.6,2,2,Sổ đỏ/Sổ hồng,Basic,3.95
+Quận 8,36.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.65
+Quận 8,40.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Quận 8,27.0,4,2,Sổ đỏ/Sổ hồng,Basic,4.75
+Quận 8,35.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.68
+Tân Bình,40.0,3,4,Sổ đỏ/Sổ hồng,Basic,4.6
+Quận 4,46.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.3
+Phú Nhuận,35.1,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.99
+Hóc Môn,144.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Quận 2,68.5,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Thủ Đức,76.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.75
+Quận 2,49.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 9,79.0,2,2,Hợp đồng mua bán,Fully Furnished,3.8
+Quận 7,67.0,2,2,Hợp đồng mua bán,Basic,3.55
+Quận 7,67.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.55
+Bình Thạnh,23.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Quận 9,76.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 7,82.8,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Bình Thạnh,40.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.35
+Quận 9,60.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Thủ Đức,80.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Thủ Đức,60.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Quận 8,32.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.55
+Bình Tân,56.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.28
+Bình Tân,44.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.75
+Bình Tân,60.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.85
+Quận 10,74.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.75
+Bình Tân,60.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.85
+Quận 7,69.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 7,50.18,4,2,Sổ đỏ/Sổ hồng,Basic,3.65
+Quận 9,52.0,4,3,Hợp đồng mua bán,Fully Furnished,4.75
+Bình Thạnh,55.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 12,48.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.15
+Quận 2,85.0,2,5,Sổ đỏ/Sổ hồng,Fully Furnished,4.78
+Quận 2,86.0,3,2,Hợp đồng mua bán,Fully Furnished,4.6
+Quận 2,79.0,3,2,Hợp đồng mua bán,Fully Furnished,4.3
+Thủ Đức,55.0,4,2,Hợp đồng mua bán,Fully Furnished,4.75
+Quận 12,48.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.57
+Quận 9,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Quận 4,68.0,1,1,Hợp đồng mua bán,Basic,4.5
+Hóc Môn,121.7,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Tân Bình,30.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Tân Phú,23.0,3,3,Sổ đỏ/Sổ hồng,Basic,3.95
+Tân Phú,71.0,2,1,Hợp đồng mua bán,Fully Furnished,3.2
+Tân Phú,112.0,3,2,Hợp đồng mua bán,Basic,3.97
+Tân Phú,88.0,2,2,Hợp đồng mua bán,Basic,4.06
+Quận 7,82.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Quận 9,95.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.5
+Quận 7,67.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Bình Tân,44.0,5,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 7,107.0,3,2,Hợp đồng mua bán,Fully Furnished,4.2
+Phú Nhuận,50.0,1,1,Sổ đỏ/Sổ hồng,Basic,3.5
+Bình Thạnh,36.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Gò Vấp,40.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.63
+Quận 2,70.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.15
+Nhà Bè,250.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Tân Phú,71.0,2,2,Hợp đồng mua bán,Fully Furnished,3.35
+Quận 9,79.0,2,1,Sổ đỏ/Sổ hồng,Basic,4.7
+Quận 7,67.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Quận 2,100.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Quận 9,80.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Quận 7,70.12,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Thủ Đức,63.0,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.43
+Quận 7,70.12,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Nhà Bè,52.8,4,5,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 12,48.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.78
+Tân Phú,105.0,3,2,Đang chờ sổ,Basic,4.0
+Bình Thạnh,26.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Bình Thạnh,68.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Bình Thạnh,37.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.1
+Quận 4,81.0,2,2,Hợp đồng mua bán,Fully Furnished,4.1
+Quận 10,28.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.4
+Quận 2,65.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.35
+Quận 4,55.0,1,1,Hợp đồng mua bán,Fully Furnished,3.05
+Quận 1,23.4,1,1,Sổ đỏ/Sổ hồng,Basic,4.0
+Quận 8,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Quận 5,126.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.32
+Quận 12,71.0,3,3,Sổ đỏ/Sổ hồng,Basic,3.2
+Quận 6,97.0,3,2,Hợp đồng mua bán,Basic,3.86
+Quận 3,58.0,2,1,Hợp đồng mua bán,Basic,4.0
+Quận 2,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Bình Thạnh,67.0,2,2,Hợp đồng mua bán,Basic,3.65
+Quận 9,74.38,2,2,Hợp đồng mua bán,Basic,3.8
+Quận 6,97.0,3,2,Hợp đồng mua bán,Basic,3.86
+Tân Phú,71.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.2
+Tân Phú,85.0,2,2,Hợp đồng mua bán,Basic,4.25
+Tân Phú,71.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.2
+Quận 2,76.0,2,2,Hợp đồng mua bán,Fully Furnished,3.85
+Quận 7,64.0,1,1,Hợp đồng mua bán,Fully Furnished,3.2
+Quận 7,106.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,5.0
+Bình Thạnh,85.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Gò Vấp,52.0,3,2,Sổ đỏ/Sổ hồng,Basic,90.0
+Bình Tân,60.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.78
+Quận 8,40.0,4,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Quận 7,67.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 2,88.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Quận 2,97.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.2
+Tân Bình,40.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.3
+Quận 9,80.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Quận 7,100.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 7,100.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Bình Tân,51.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Bình Tân,64.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.0
+Tân Phú,74.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.6
+Bình Tân,80.0,2,2,Hợp đồng mua bán,Fully Furnished,3.5
+Quận 3,34.0,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.55
+Quận 10,78.0,2,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Bình Thạnh,66.0,2,2,Hợp đồng mua bán,Fully Furnished,3.7
+Tân Phú,85.0,2,2,Hợp đồng mua bán,Basic,4.38
+Quận 10,88.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.88
+Quận 7,67.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.95
+Tân Phú,72.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 2,72.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.65
+Quận 2,64.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Bình Thạnh,39.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.35
+Quận 7,71.0,2,2,Hợp đồng mua bán,Luxuriously Furnished,3.9
+Tân Phú,86.0,3,2,Hợp đồng mua bán,Luxuriously Furnished,3.5
+Quận 11,87.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.7
+Quận 10,72.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 6,83.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Tân Phú,80.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 10,60.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 4,70.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.66
+Quận 2,54.0,1,1,Hợp đồng mua bán,Basic,3.4
+Bình Thạnh,43.0,3,3,Sổ đỏ/Sổ hồng,Basic,4.47
+Quận 7,85.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.1
+Quận 2,64.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.54
+Quận 9,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 7,76.81,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.95
+Quận 9,66.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Bình Tân,60.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.25
+Bình Thạnh,40.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 10,74.0,2,2,Hợp đồng mua bán,Fully Furnished,3.8
+Gò Vấp,54.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.53
+Quận 4,35.7,4,3,Sổ đỏ/Sổ hồng,Basic,4.7
+Quận 4,75.0,2,2,Hợp đồng mua bán,Fully Furnished,4.5
+Quận 2,65.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Nhà Bè,122.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.1
+Tân Phú,48.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.0
+Quận 11,35.0,5,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 12,60.0,4,3,Sổ đỏ/Sổ hồng,Basic,3.23
+Gò Vấp,86.1,3,2,Sổ đỏ/Sổ hồng,Basic,4.6
+Quận 12,44.0,4,3,Sổ đỏ/Sổ hồng,Basic,3.75
+Quận 6,94.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 7,82.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 7,82.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 9,79.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Bình Thạnh,66.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.6
+Bình Thạnh,90.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Bình Thạnh,52.0,3,2,Sổ đỏ/Sổ hồng,Basic,5.0
+Quận 2,80.0,2,2,Hợp đồng mua bán,Basic,4.5
+Quận 4,75.0,2,2,Hợp đồng mua bán,Fully Furnished,4.79
+Quận 6,83.0,3,2,Hợp đồng mua bán,Fully Furnished,4.1
+Quận 9,90.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Quận 2,103.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Quận 9,70.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.28
+Quận 2,72.0,2,2,Hợp đồng mua bán,Fully Furnished,3.6
+Quận 12,81.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 9,72.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Tân Phú,32.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.7
+Quận 4,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.79
+Bình Tân,78.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.3
+Quận 7,91.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Quận 4,85.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 4,54.0,1,1,Hợp đồng mua bán,Fully Furnished,3.3
+Quận 4,60.0,2,1,Hợp đồng mua bán,Fully Furnished,3.64
+Quận 4,60.0,2,1,Hợp đồng mua bán,Fully Furnished,3.64
+Quận 1,50.0,2,1,Hợp đồng mua bán,Unfurnished,4.6
+Quận 4,35.0,1,1,Hợp đồng mua bán,Basic,3.2
+Tân Phú,82.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.05
+Tân Phú,81.0,3,2,Hợp đồng mua bán,Basic,3.02
+Quận 9,70.0,2,2,Hợp đồng mua bán,Fully Furnished,3.1
+Bình Thạnh,42.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Tân Phú,36.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Bình Chánh,82.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 6,88.0,3,2,Hợp đồng mua bán,Basic,3.05
+Tân Bình,100.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Tân Phú,92.0,3,2,Hợp đồng mua bán,Fully Furnished,3.5
+Quận 7,97.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Quận 10,50.0,1,1,Hợp đồng mua bán,Fully Furnished,4.3
+Quận 8,23.1,1,2,Sổ đỏ/Sổ hồng,Unfurnished,3.3
+Quận 7,90.0,3,2,Sổ đỏ/Sổ hồng,Unfurnished,3.35
+Quận 4,57.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Nhà Bè,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.25
+Nhà Bè,99.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.95
+Bình Chánh,101.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Tân Phú,83.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.2
+Quận 2,74.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Bình Chánh,130.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Quận 6,84.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Quận 7,55.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.05
+Nhà Bè,150.0,4,4,Sổ đỏ/Sổ hồng,Basic,4.3
+Bình Chánh,130.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Bình Chánh,71.0,2,2,Hợp đồng mua bán,Basic,3.18
+Quận 2,58.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Quận 9,72.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.49
+Quận 3,33.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Nhà Bè,71.42,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Quận 8,46.8,4,3,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.6
+Quận 1,150.0,3,3,Sổ đỏ/Sổ hồng,Luxuriously Furnished,5.0
+Quận 1,90.0,5,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Bình Tân,79.0,2,2,Đang chờ sổ,Fully Furnished,3.5
+Gò Vấp,32.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Quận 4,87.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 3,38.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.25
+Quận 7,82.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Tân Phú,35.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.95
+Bình Tân,60.0,4,5,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 9,66.5,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 8,147.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 1,19.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.65
+Tân Bình,40.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Quận 11,87.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Bình Tân,78.0,2,2,Hợp đồng mua bán,Basic,3.5
+Quận 2,82.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.67
+Bình Thạnh,55.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Quận 9,68.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.75
+Tân Bình,83.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Bình Thạnh,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 7,96.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 2,48.2,1,1,Hợp đồng mua bán,Basic,5.0
+Quận 6,28.0,2,1,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.4
+Gò Vấp,40.26,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.98
+Tân Bình,43.0,4,3,Sổ đỏ/Sổ hồng,Basic,4.75
+Quận 6,36.0,4,4,Sổ đỏ/Sổ hồng,Basic,4.8
+Bình Tân,87.0,5,4,Sổ đỏ/Sổ hồng,Basic,4.9
+Quận 7,87.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Bình Tân,32.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Tân Bình,69.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.55
+Quận 12,41.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.47
+Quận 12,84.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.95
+Quận 7,118.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Gò Vấp,40.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.98
+Quận 9,50.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Thủ Đức,86.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 7,66.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.55
+Quận 2,80.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.7
+Thủ Đức,80.0,3,2,Hợp đồng mua bán,Fully Furnished,3.6
+Bình Tân,54.6,4,5,Sổ đỏ/Sổ hồng,Fully Furnished,4.55
+Bình Thạnh,40.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.2
+Quận 12,46.9,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Quận 2,80.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.25
+Quận 7,67.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Quận 7,99.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.2
+Thủ Đức,50.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.75
+Quận 5,20.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 4,70.0,2,2,Hợp đồng mua bán,Basic,4.0
+Quận 2,65.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Quận 7,72.0,2,2,Hợp đồng mua bán,Fully Furnished,3.8
+Quận 7,72.0,2,2,Hợp đồng mua bán,Fully Furnished,3.8
+Quận 8,84.0,2,2,Hợp đồng mua bán,Fully Furnished,3.25
+Quận 7,87.0,3,2,Hợp đồng mua bán,Fully Furnished,4.75
+Bình Tân,78.0,2,2,Hợp đồng mua bán,Basic,3.0
+Quận 7,89.0,2,2,Hợp đồng mua bán,Fully Furnished,4.35
+Tân Phú,32.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 8,30.88,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 7,72.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.1
+Quận 1,35.0,1,1,Đang chờ sổ,Fully Furnished,3.0
+Quận 2,50.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Quận 4,55.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.85
+Củ Chi,95.0,3,3,Sổ đỏ/Sổ hồng,Basic,3.3
+Quận 7,80.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Quận 7,80.0,3,2,Công chứng ngay,Fully Furnished,4.5
+Quận 6,40.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.09
+Quận 7,60.0,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 8,40.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.19
+Bình Thạnh,141.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 7,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Bình Thạnh,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.29
+Quận 12,90.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.9
+Quận 7,76.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.7
+Quận 7,75.0,2,2,Hợp đồng mua bán,Basic,3.5
+Tân Phú,78.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.15
+Quận 4,75.0,2,2,Hợp đồng mua bán,Fully Furnished,4.6
+Quận 6,67.57,2,2,Đang chờ sổ,Basic,3.4
+Quận 4,53.0,2,1,Hợp đồng mua bán,Basic,4.1
+Quận 6,45.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.9
+Quận 6,83.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.2
+Bình Tân,44.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.7
+Bình Tân,42.0,2,1,Hợp đồng mua bán,Basic,3.9
+Phú Nhuận,33.4,2,2,Hợp đồng mua bán,Basic,3.9
+Tân Bình,52.0,4,3,Hợp đồng mua bán,Basic,4.0
+Bình Thạnh,141.0,3,2,Hợp đồng mua bán,Basic,4.6
+Quận 11,87.0,3,2,Hợp đồng mua bán,Basic,4.8
+Quận 7,71.0,2,2,Hợp đồng mua bán,Fully Furnished,4.0
+Quận 7,71.0,2,2,Hợp đồng mua bán,Basic,3.8
+Quận 7,117.6,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.75
+Quận 7,56.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.95
+Quận 6,83.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 8,51.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Quận 2,102.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Bình Tân,83.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 9,56.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.3
+Thủ Đức,87.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.45
+Quận 11,52.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Bình Tân,48.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Bình Tân,48.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Gò Vấp,30.0,5,4,Sổ đỏ/Sổ hồng,Basic,3.1
+Quận 9,80.0,2,2,Đang chờ sổ,Fully Furnished,50.0
+Tân Bình,93.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 2,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Quận 6,86.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Tân Phú,71.0,2,2,Hợp đồng mua bán,Fully Furnished,3.2
+Tân Bình,73.0,2,2,Hợp đồng mua bán,Fully Furnished,3.2
+Tân Bình,73.0,2,2,Hợp đồng mua bán,Fully Furnished,3.2
+Quận 9,56.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Nhà Bè,122.0,3,2,Sổ đỏ/Sổ hồng,Unfurnished,3.3
+Bình Tân,70.0,1,1,Hợp đồng mua bán,Basic,48.0
+Quận 7,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.89
+Quận 12,68.0,15,15,Sổ đỏ/Sổ hồng,Basic,4.8
+Quận 3,35.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.75
+Nhà Bè,76.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 12,52.4,2,2,Sổ đỏ/Sổ hồng,Basic,3.65
+Quận 7,71.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 7,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 12,52.4,2,2,Sổ đỏ/Sổ hồng,Basic,3.65
+Quận 7,106.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Quận 7,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.25
+Quận 7,60.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.95
+Thủ Đức,70.2,4,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 6,97.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Bình Chánh,85.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 9,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Phú Nhuận,30.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Bình Tân,36.0,4,3,Sổ đỏ/Sổ hồng,Basic,3.27
+Bình Tân,68.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Quận 11,87.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.7
+Quận 7,52.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.7
+Quận 2,56.0,1,1,Sổ đỏ/Sổ hồng,Basic,4.4
+Tân Phú,96.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.55
+Quận 8,30.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Hóc Môn,64.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.85
+Quận 7,56.0,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Gò Vấp,39.6,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.95
+Gò Vấp,39.6,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.95
+Quận 2,51.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.35
+Tân Bình,69.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.75
+Quận 9,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Gò Vấp,38.0,2,3,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.78
+Quận 2,58.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.38
+Quận 9,145.4,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 2,72.0,2,2,Hợp đồng mua bán,Fully Furnished,3.6
+Quận 7,71.0,2,2,Hợp đồng mua bán,Basic,3.8
+Bình Thạnh,81.6,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.33
+Bình Thạnh,64.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.8
+Quận 7,100.0,2,2,Sổ đỏ/Sổ hồng,Unfurnished,4.5
+Quận 7,100.0,2,2,Sổ đỏ/Sổ hồng,Unfurnished,4.5
+Quận 7,118.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.65
+Quận 7,320.0,3,4,Sổ đỏ/Sổ hồng,Basic,5.0
+Quận 7,82.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.89
+Quận 9,76.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.85
+Bình Tân,90.0,5,5,Sổ đỏ/Sổ hồng,Basic,4.0
+Quận 4,126.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.8
+Tân Bình,69.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 6,97.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Quận 2,79.0,3,2,Hợp đồng mua bán,Fully Furnished,4.2
+Bình Tân,56.0,5,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.68
+Quận 2,120.0,3,2,Hợp đồng mua bán,Basic,4.5
+Bình Tân,100.0,3,2,Hợp đồng mua bán,Basic,4.5
+Quận 3,47.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 7,96.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Gò Vấp,35.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.5
+Phú Nhuận,50.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 7,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Quận 2,56.0,2,1,Hợp đồng mua bán,Fully Furnished,3.2
+Quận 2,58.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Thủ Đức,53.7,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Quận 2,102.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.15
+Quận 7,56.0,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Gò Vấp,44.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Bình Tân,44.0,5,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 7,100.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Bình Tân,64.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 7,95.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Bình Tân,56.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Gò Vấp,30.0,2,3,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.69
+Quận 2,55.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Quận 7,70.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 7,77.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 7,89.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 2,68.0,2,2,Đang chờ sổ,Basic,3.55
+Quận 2,68.0,2,2,Đang chờ sổ,Basic,3.55
+Quận 7,120.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Quận 12,52.0,4,5,Sổ đỏ/Sổ hồng,Basic,4.29
+Gò Vấp,38.5,3,3,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.98
+Thủ Đức,84.0,3,3,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.8
+Quận 2,51.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 7,94.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.95
+Gò Vấp,42.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.69
+Gò Vấp,42.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Quận 2,64.0,2,2,Hợp đồng mua bán,Unfurnished,4.1
+Quận 9,100.0,3,2,Hợp đồng mua bán,Basic,3.58
+Thủ Đức,72.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.1
+Thủ Đức,72.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.1
+Thủ Đức,79.0,2,2,Hợp đồng mua bán,Fully Furnished,4.15
+Tân Phú,92.0,3,2,Hợp đồng mua bán,Unfurnished,4.05
+Quận 4,37.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.7
+Bình Thạnh,73.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Tân Bình,69.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 12,95.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Tân Bình,52.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.49
+Quận 1,50.1,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Bình Tân,68.0,2,2,Hợp đồng mua bán,Basic,3.5
+Gò Vấp,48.0,4,4,Hợp đồng mua bán,Basic,4.98
+Bình Thạnh,73.0,2,2,Hợp đồng mua bán,Basic,3.4
+Quận 7,189.0,3,3,Sổ đỏ/Sổ hồng,Basic,4.5
+Quận 7,55.2,4,2,Sổ đỏ/Sổ hồng,Basic,4.8
+Bình Chánh,82.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Bình Thạnh,56.5,2,2,Sổ đỏ/Sổ hồng,Basic,4.44
+Bình Tân,60.0,2,1,Sổ đỏ/Sổ hồng,Basic,3.0
+Quận 7,70.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.6
+Gò Vấp,45.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.1
+Thủ Đức,120.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.15
+Thủ Đức,57.5,3,2,Sổ đỏ/Sổ hồng,Basic,4.0
+Quận 2,52.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.05
+Quận 3,81.0,2,3,Sổ đỏ/Sổ hồng,Basic,3.4
+Tân Bình,80.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.9
+Quận 6,25.7,2,1,Sổ đỏ/Sổ hồng,Basic,3.45
+Quận 10,62.0,2,1,Hợp đồng mua bán,Basic,3.6
+Tân Phú,93.0,3,2,Hợp đồng mua bán,Fully Furnished,3.5
+Gò Vấp,55.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.65
+Quận 7,114.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Thủ Đức,45.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Quận 4,126.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 4,80.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.45
+Bình Tân,58.0,4,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 7,71.5,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.55
+Quận 7,71.5,3,2,Sổ đỏ/Sổ hồng,Basic,3.55
+Quận 10,60.0,1,1,Sổ đỏ/Sổ hồng,Basic,4.5
+Bình Tân,60.0,2,1,Hợp đồng mua bán,Basic,3.0
+Tân Phú,54.5,2,1,Sổ đỏ/Sổ hồng,Basic,4.28
+Tân Bình,65.1,3,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.35
+Quận 1,54.0,2,1,Hợp đồng mua bán,Basic,4.6
+Phú Nhuận,23.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.9
+Quận 12,70.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.99
+Quận 9,51.0,4,3,Sổ đỏ/Sổ hồng,Basic,3.85
+Quận 2,45.0,2,2,Hợp đồng mua bán,Basic,4.7
+Tân Bình,52.0,5,5,Sổ đỏ/Sổ hồng,Basic,3.2
+Quận 8,38.0,4,4,Sổ đỏ/Sổ hồng,Basic,4.9
+Phú Nhuận,38.1,2,2,Sổ đỏ/Sổ hồng,Basic,4.3
+Bình Tân,112.0,4,2,Sổ đỏ/Sổ hồng,Basic,4.6
+Tân Bình,50.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Bình Thạnh,58.8,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Bình Thạnh,110.0,4,5,Sổ đỏ/Sổ hồng,Fully Furnished,4.29
+Bình Thạnh,25.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Tân Bình,52.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Bình Tân,54.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.45
+Bình Tân,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Thủ Đức,55.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Quận 7,60.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.85
+Bình Thạnh,23.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.19
+Quận 7,35.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Bình Tân,64.2,3,3,Sổ đỏ/Sổ hồng,Basic,4.4
+Tân Phú,63.0,2,1,Hợp đồng mua bán,Fully Furnished,3.0
+Tân Phú,71.0,2,2,Hợp đồng mua bán,Fully Furnished,3.35
+Quận 2,73.0,2,2,Hợp đồng mua bán,Basic,3.95
+Tân Phú,71.0,2,2,Hợp đồng mua bán,Fully Furnished,3.35
+Quận 2,73.0,2,2,Hợp đồng mua bán,Basic,3.95
+Tân Phú,66.0,2,1,Hợp đồng mua bán,Fully Furnished,3.0
+Bình Tân,64.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.65
+Gò Vấp,48.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.2
+Bình Tân,50.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Bình Tân,70.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.9
+Quận 2,83.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.9
+Quận 2,58.0,1,1,Hợp đồng mua bán,Fully Furnished,3.98
+Nhà Bè,56.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.75
+Bình Thạnh,81.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Tân Phú,40.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.99
+Gò Vấp,60.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.87
+Quận 9,53.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.69
+Quận 6,90.0,3,2,Hợp đồng mua bán,Basic,3.0
+Quận 2,69.0,2,2,Hợp đồng mua bán,Basic,4.3
+Quận 12,72.0,2,3,Sổ đỏ/Sổ hồng,Basic,3.7
+Quận 7,28.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.55
+Tân Phú,85.0,2,2,Đang chờ sổ,Basic,4.3
+Gò Vấp,45.0,2,2,Đang chờ sổ,Basic,4.65
+Quận 4,41.3,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Bình Thạnh,53.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Bình Thạnh,62.0,5,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Tân Phú,46.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.05
+Tân Bình,44.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.39
+Quận 9,36.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Bình Thạnh,28.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 9,50.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 9,74.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,42.0
+Bình Tân,37.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 7,94.0,3,2,Hợp đồng mua bán,Basic,4.1
+Quận 7,92.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 7,87.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Gò Vấp,56.4,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.31
+Quận 7,99.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 7,100.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 7,91.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 4,50.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 7,86.0,3,2,Hợp đồng mua bán,Basic,3.68
+Quận 7,91.0,2,2,Hợp đồng mua bán,Fully Furnished,4.8
+Thủ Đức,72.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.2
+Thủ Đức,72.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Thủ Đức,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,45.0
+Thủ Đức,71.0,2,2,Hợp đồng mua bán,Fully Furnished,3.55
+Quận 7,114.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.0
+Phú Nhuận,59.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.09
+Bình Thạnh,35.0,4,3,Sổ đỏ/Sổ hồng,Unfurnished,4.35
+Tân Bình,52.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Gò Vấp,35.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Tân Phú,85.0,2,2,Hợp đồng mua bán,Basic,4.52
+Quận 7,99.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.75
+Quận 7,75.0,2,2,Hợp đồng mua bán,Basic,3.77
+Quận 11,97.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.85
+Quận 4,80.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.9
+Gò Vấp,65.0,3,3,Sổ đỏ/Sổ hồng,Basic,3.9
+Tân Bình,75.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.6
+Phú Nhuận,62.0,3,3,Sổ đỏ/Sổ hồng,Basic,3.35
+Quận 7,85.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.75
+Bình Thạnh,50.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.75
+Quận 3,104.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 4,50.0,1,1,Hợp đồng mua bán,Fully Furnished,3.35
+Bình Tân,86.0,16,16,Sổ đỏ/Sổ hồng,Unfurnished,4.2
+Quận 2,52.0,1,1,Hợp đồng mua bán,Fully Furnished,4.4
+Quận 4,26.3,2,3,Sổ đỏ/Sổ hồng,Basic,4.8
+Quận 9,66.0,2,2,Hợp đồng mua bán,Basic,3.0
+Tân Phú,84.0,2,2,Hợp đồng mua bán,Fully Furnished,3.75
+Quận 6,86.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.25
+Bình Chánh,98.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.15
+Bình Tân,40.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Bình Chánh,67.0,2,2,Hợp đồng mua bán,Basic,3.19
+Quận 2,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Phú Nhuận,33.0,3,2,Sổ đỏ/Sổ hồng,Basic,130.0
+Quận 9,81.0,3,2,Đang chờ sổ,Unfurnished,3.1
+Quận 10,74.0,2,2,Hợp đồng mua bán,Luxuriously Furnished,3.75
+Quận 7,120.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.9
+Bình Tân,56.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.85
+Phú Nhuận,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Tân Bình,98.0,3,3,Hợp đồng mua bán,Fully Furnished,5.0
+Quận 4,76.0,2,2,Hợp đồng mua bán,Fully Furnished,3.3
+Tân Phú,105.0,3,3,Đang chờ sổ,Fully Furnished,3.7
+Tân Phú,112.0,3,2,Hợp đồng mua bán,Fully Furnished,3.97
+Thủ Đức,95.0,3,2,Sổ đỏ/Sổ hồng,Unfurnished,3.0
+Quận 8,73.0,2,2,Đang chờ sổ,Unfurnished,3.85
+Quận 4,54.0,2,1,Hợp đồng mua bán,Fully Furnished,3.75
+Nhà Bè,50.6,4,5,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Phú Nhuận,19.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.1
+Quận 7,66.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.95
+Quận 8,115.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.55
+Nhà Bè,122.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.3
+Quận 4,27.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.75
+Quận 2,64.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Quận 6,39.05,2,2,Sổ đỏ/Sổ hồng,Unfurnished,3.9
+Bình Chánh,68.0,2,2,Hợp đồng mua bán,Fully Furnished,3.37
+Quận 4,49.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Thủ Đức,80.0,2,2,Hợp đồng mua bán,Basic,3.3
+Thủ Đức,80.0,2,2,Hợp đồng mua bán,Fully Furnished,3.3
+Thủ Đức,80.0,2,2,Hợp đồng mua bán,Fully Furnished,4.15
+Thủ Đức,80.0,2,2,Hợp đồng mua bán,Fully Furnished,4.15
+Quận 8,115.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Gò Vấp,86.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.48
+Quận 12,53.3,2,2,Sổ đỏ/Sổ hồng,Basic,4.29
+Quận 2,86.0,3,2,Hợp đồng mua bán,Fully Furnished,4.5
+Gò Vấp,52.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Quận 7,81.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.25
+Nhà Bè,95.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.48
+Quận 12,49.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.55
+Quận 6,90.0,2,2,Hợp đồng mua bán,Fully Furnished,3.5
+Quận 12,52.9,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.55
+Quận 7,82.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.8
+Thủ Đức,43.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.95
+Quận 4,79.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 4,58.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Tân Phú,71.0,2,2,Hợp đồng mua bán,Basic,3.2
+Tân Bình,71.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.6
+Quận 1,25.0,1,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Quận 12,52.5,2,2,Sổ đỏ/Sổ hồng,Unfurnished,3.45
+Quận 8,84.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.3
+Bình Tân,60.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Quận 12,50.4,3,3,Sổ đỏ/Sổ hồng,Basic,3.45
+Quận 2,65.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 7,56.7,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Phú Nhuận,72.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 2,110.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Quận 2,110.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Quận 8,48.0,2,1,Sổ đỏ/Sổ hồng,Unfurnished,3.95
+Quận 2,106.0,3,2,Sổ đỏ/Sổ hồng,Unfurnished,3.7
+Quận 7,76.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Bình Thạnh,94.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.85
+Tân Bình,59.0,1,1,Sổ đỏ/Sổ hồng,Unfurnished,3.5
+Quận 12,40.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.27
+Bình Tân,53.2,3,2,Sổ đỏ/Sổ hồng,Basic,4.8
+Quận 10,80.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.95
+Gò Vấp,33.4,3,4,Sổ đỏ/Sổ hồng,Basic,4.98
+Quận 7,89.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 7,78.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.65
+Quận 7,95.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.5
+Quận 7,65.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.8
+Bình Thạnh,131.0,3,3,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.45
+Bình Thạnh,107.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 12,53.9,4,5,Sổ đỏ/Sổ hồng,Fully Furnished,4.75
+Bình Chánh,78.56,2,2,Hợp đồng mua bán,Fully Furnished,3.6
+Quận 7,124.0,3,2,Hợp đồng mua bán,Fully Furnished,5.0
+Gò Vấp,50.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.89
+Bình Thạnh,141.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Tân Bình,43.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Phú Nhuận,93.0,2,2,Hợp đồng mua bán,Fully Furnished,4.4
+Thủ Đức,67.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.45
+Quận 2,68.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.6
+Quận 9,115.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Tân Bình,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Gò Vấp,93.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.85
+Tân Phú,82.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.05
+Quận 11,87.0,3,2,Đang chờ sổ,Fully Furnished,4.7
+Quận 12,100.0,5,2,Đang chờ sổ,Fully Furnished,4.5
+Bình Tân,68.0,2,1,Sổ đỏ/Sổ hồng,Unfurnished,3.8
+Phú Nhuận,93.0,2,2,Sổ đỏ/Sổ hồng,Unfurnished,4.5
+Bình Thạnh,141.0,3,2,Sổ đỏ/Sổ hồng,Unfurnished,4.5
+Quận 7,71.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.15
+Quận 7,74.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.99
+Quận 11,52.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.99
+Bình Chánh,100.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Gò Vấp,60.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.95
+Tân Bình,40.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.55
+Tân Phú,49.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.2
+Tân Bình,34.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.0
+Quận 10,53.0,1,1,Đang chờ sổ,Basic,3.5
+Quận 2,90.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.0
+Bình Chánh,78.0,2,2,Hợp đồng mua bán,Basic,3.2
+Bình Thạnh,45.0,1,2,Hợp đồng mua bán,Fully Furnished,5.0
+Bình Tân,112.0,2,2,Hợp đồng mua bán,Fully Furnished,4.7
+Quận 6,86.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.45
+Quận 8,70.0,4,5,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.0
+Phú Nhuận,75.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.6
+Quận 7,106.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.15
+Bình Tân,94.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.1
+Quận 9,72.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Quận 7,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 2,64.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Quận 6,68.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 12,112.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 10,36.0,6,6,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Bình Thạnh,40.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.95
+Quận 10,37.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Tân Bình,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Bình Thạnh,23.0,2,1,Sổ đỏ/Sổ hồng,Basic,3.1
+Bình Tân,56.0,5,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.68
+Bình Thạnh,90.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.95
+Bình Tân,56.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Bình Tân,56.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Tân Phú,84.0,2,2,Hợp đồng mua bán,Fully Furnished,3.9
+Quận 10,31.8,2,2,Sổ đỏ/Sổ hồng,Basic,4.2
+Quận 8,150.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.1
+Bình Chánh,86.0,2,2,Hợp đồng mua bán,Basic,4.0
+Bình Tân,60.0,4,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Bình Thạnh,30.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.25
+Quận 12,55.0,4,3,Sổ đỏ/Sổ hồng,Basic,3.28
+Quận 7,64.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.7
+Quận 7,96.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.6
+Quận 10,50.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Quận 10,50.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Quận 10,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Tân Phú,106.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Củ Chi,140.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.15
+Tân Bình,58.0,3,3,Sổ đỏ/Sổ hồng,Basic,5.0
+Quận 7,160.0,4,4,Sổ đỏ/Sổ hồng,Basic,3.05
+Quận 3,47.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Gò Vấp,31.5,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Bình Thạnh,28.0,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 9,73.0,2,2,Hợp đồng mua bán,Basic,3.4
+Quận 2,65.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Thủ Đức,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Tân Phú,95.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Quận 5,30.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 8,38.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 8,86.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.15
+Bình Thạnh,45.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.25
+Quận 10,38.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.75
+Quận 7,92.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Quận 2,100.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Tân Phú,84.0,2,2,Hợp đồng mua bán,Fully Furnished,3.85
+Quận 8,39.7,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Bình Thạnh,42.4,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Tân Phú,80.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.95
+Phú Nhuận,71.0,2,2,Sổ đỏ/Sổ hồng,Basic,5.0
+Phú Nhuận,73.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.8
+Tân Bình,96.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Bình Thạnh,27.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.25
+Bình Thạnh,30.0,3,5,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Nhà Bè,82.0,2,2,Hợp đồng mua bán,Unfurnished,4.22
+Quận 7,100.0,2,2,Sổ đỏ/Sổ hồng,Unfurnished,4.2
+Quận 3,40.0,5,4,Sổ đỏ/Sổ hồng,Unfurnished,4.6
+Quận 7,100.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Tân Bình,30.4,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Tân Phú,60.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.6
+Quận 4,65.0,2,1,Sổ đỏ/Sổ hồng,Basic,3.6
+Quận 4,87.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.7
+Quận 10,34.0,3,3,Sổ đỏ/Sổ hồng,Basic,4.1
+Quận 10,34.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.85
+Quận 2,63.47,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Tân Bình,50.0,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.49
+Quận 10,50.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Quận 8,33.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Quận 12,60.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.95
+Bình Tân,33.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.42
+Quận 10,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 2,65.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Bình Chánh,78.0,2,2,Hợp đồng mua bán,Basic,3.2
+Quận 9,54.17,2,2,Hợp đồng mua bán,Basic,3.25
+Tân Bình,80.0,2,2,Hợp đồng mua bán,Fully Furnished,3.8
+Quận 7,92.0,2,2,Hợp đồng mua bán,Basic,4.9
+Quận 8,32.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.2
+Quận 8,32.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.2
+Tân Phú,92.0,2,2,Hợp đồng mua bán,Basic,4.3
+Phú Nhuận,28.4,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.95
+Quận 9,72.24,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.84
+Quận 9,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.79
+Gò Vấp,70.0,2,2,Đang chờ sổ,Fully Furnished,3.5
+Gò Vấp,66.0,2,2,Đang chờ sổ,Basic,3.0
+Quận 9,70.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Quận 12,48.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.3
+Quận 2,75.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.0
+Quận 12,67.5,4,5,Sổ đỏ/Sổ hồng,Basic,4.9
+Quận 9,63.7,2,2,Sổ đỏ/Sổ hồng,Basic,4.2
+Tân Bình,25.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 12,52.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Bình Tân,60.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Phú Nhuận,60.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Quận 12,78.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Thủ Đức,70.2,5,4,Sổ đỏ/Sổ hồng,Basic,5.0
+Bình Thạnh,48.0,3,3,Sổ đỏ/Sổ hồng,Basic,3.3
+Tân Phú,104.0,3,2,Hợp đồng mua bán,Fully Furnished,4.7
+Quận 6,77.0,2,2,Hợp đồng mua bán,Fully Furnished,3.2
+Quận 7,113.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 4,84.0,2,2,Hợp đồng mua bán,Fully Furnished,3.0
+Quận 4,130.0,3,2,Hợp đồng mua bán,Fully Furnished,4.8
+Quận 7,76.0,2,2,Hợp đồng mua bán,Fully Furnished,3.55
+Nhà Bè,71.0,2,2,Hợp đồng mua bán,Fully Furnished,3.1
+Tân Phú,84.0,2,2,Hợp đồng mua bán,Fully Furnished,4.0
+Phú Nhuận,93.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Quận 12,50.0,4,4,Sổ đỏ/Sổ hồng,Basic,4.35
+Quận 12,50.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.48
+Quận 7,77.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.8
+Bình Thạnh,42.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Quận 6,102.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 7,128.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Tân Phú,71.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.04
+Bình Thạnh,34.0,2,1,Sổ đỏ/Sổ hồng,Basic,4.58
+Cần Giờ,180.9,2,1,Sổ đỏ/Sổ hồng,Unfurnished,3.9
+Quận 2,79.0,3,2,Hợp đồng mua bán,Fully Furnished,4.25
+Tân Phú,105.0,3,2,Hợp đồng mua bán,Basic,4.85
+Tân Phú,104.0,3,2,Hợp đồng mua bán,Basic,4.7
+Quận 2,98.0,3,2,Hợp đồng mua bán,Basic,3.4
+Quận 6,49.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Tân Bình,42.5,3,3,Sổ đỏ/Sổ hồng,Basic,4.2
+Tân Phú,114.0,3,2,Hợp đồng mua bán,Basic,4.05
+Quận 7,44.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Quận 8,84.0,2,2,Hợp đồng mua bán,Fully Furnished,3.05
+Bình Thạnh,77.0,2,2,Hợp đồng mua bán,Fully Furnished,4.5
+Quận 11,86.0,2,2,Hợp đồng mua bán,Fully Furnished,3.5
+Quận 1,65.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.4
+Quận 8,43.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Quận 7,73.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 12,53.4,3,2,Sổ đỏ/Sổ hồng,Basic,4.09
+Tân Bình,80.0,2,2,Hợp đồng mua bán,Fully Furnished,3.8
+Quận 2,83.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Tân Phú,83.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Thủ Đức,77.0,2,2,Đang chờ sổ,Basic,4.5
+Quận 2,58.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Quận 2,51.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 2,61.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.75
+Quận 2,61.0,2,2,Hợp đồng mua bán,Fully Furnished,3.7
+Quận 2,76.0,2,2,Hợp đồng mua bán,Fully Furnished,3.95
+Quận 10,35.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.85
+Quận 9,72.0,3,4,Hợp đồng mua bán,Fully Furnished,3.8
+Quận 7,85.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 7,72.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.35
+Bình Thạnh,77.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.5
+Quận 9,70.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.2
+Quận 7,102.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Nhà Bè,72.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 7,85.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Phú Nhuận,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Hóc Môn,52.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.68
+Thủ Đức,61.3,3,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 3,48.3,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.69
+Quận 4,74.0,2,2,Hợp đồng mua bán,Fully Furnished,4.8
+Quận 7,94.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.95
+Bình Tân,38.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Nhà Bè,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,41.0
+Nhà Bè,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,41.0
+Nhà Bè,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,41.0
+Nhà Bè,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,41.0
+Quận 4,76.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 7,117.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.59
+Thủ Đức,66.0,2,2,Hợp đồng mua bán,Fully Furnished,3.1
+Gò Vấp,38.5,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.98
+Quận 7,80.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.58
+Quận 8,38.0,4,3,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.95
+Bình Tân,63.2,2,2,Hợp đồng mua bán,Luxuriously Furnished,3.7
+Tân Phú,49.2,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.35
+Bình Tân,60.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 9,104.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 8,44.0,4,3,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.85
+Thủ Đức,74.6,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Gò Vấp,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 4,75.0,2,2,Đang chờ sổ,Fully Furnished,4.5
+Quận 12,60.0,3,3,Sổ đỏ/Sổ hồng,Basic,3.82
+Quận 7,124.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.05
+Tân Phú,106.0,3,3,Sổ đỏ/Sổ hồng,Unfurnished,3.1
+Tân Phú,71.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 7,91.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 3,58.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.98
+Quận 3,58.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.98
+Quận 7,91.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Bình Tân,52.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.03
+Quận 2,97.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.95
+Quận 12,84.0,4,5,Sổ đỏ/Sổ hồng,Basic,4.75
+Quận 8,43.0,4,3,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.0
+Quận 8,40.0,4,3,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.5
+Quận 2,69.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.0
+Quận 10,72.0,2,2,Hợp đồng mua bán,Basic,5.0
+Quận 10,74.0,2,2,Hợp đồng mua bán,Basic,3.75
+Quận 10,88.0,2,2,Hợp đồng mua bán,Basic,4.9
+Quận 12,56.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.98
+Tân Phú,48.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.15
+Thủ Đức,48.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.2
+Thủ Đức,71.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Quận 12,63.0,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 12,73.0,4,5,Sổ đỏ/Sổ hồng,Fully Furnished,4.99
+Quận 9,52.0,4,3,Sổ đỏ/Sổ hồng,Basic,4.6
+Quận 8,115.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.55
+Bình Thạnh,66.0,2,2,Hợp đồng mua bán,Basic,3.4
+Quận 7,96.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Quận 7,110.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.05
+Tân Phú,32.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Gò Vấp,30.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.79
+Quận 7,97.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Quận 7,68.0,2,2,Công chứng ngay,Fully Furnished,3.2
+Nhà Bè,39.0,5,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.25
+Bình Thạnh,68.0,2,2,Hợp đồng mua bán,Fully Furnished,3.5
+Quận 2,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Phú Nhuận,59.2,4,3,Sổ đỏ/Sổ hồng,Basic,3.29
+Bình Tân,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Phú Nhuận,61.3,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Thủ Đức,70.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Quận 7,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Gò Vấp,52.0,2,3,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.43
+Quận 7,71.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.85
+Quận 8,62.4,3,2,Sổ đỏ/Sổ hồng,Basic,4.3
+Hóc Môn,103.0,2,1,Sổ đỏ/Sổ hồng,Basic,4.75
+Tân Phú,21.6,2,3,Sổ đỏ/Sổ hồng,Unfurnished,4.92
+Tân Bình,28.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Bình Thạnh,35.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.58
+Gò Vấp,32.4,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Tân Bình,45.0,3,3,Sổ đỏ/Sổ hồng,Basic,3.39
+Bình Thạnh,49.3,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Phú Nhuận,25.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Tân Bình,55.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Quận 2,67.8,2,2,Sổ đỏ/Sổ hồng,Basic,3.3
+Tân Bình,70.0,2,2,Đang chờ sổ,Basic,3.5
+Quận 2,68.0,2,2,Đang chờ sổ,Basic,3.65
+Quận 2,65.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.55
+Quận 2,66.8,2,2,Sổ đỏ/Sổ hồng,Basic,3.25
+Phú Nhuận,69.0,2,2,Đang chờ sổ,Fully Furnished,3.6
+Phú Nhuận,83.0,2,2,Đang chờ sổ,Fully Furnished,5.0
+Quận 2,90.0,3,2,Đang chờ sổ,Fully Furnished,4.8
+Quận 2,52.0,1,2,Đang chờ sổ,Fully Furnished,3.2
+Hóc Môn,84.0,4,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 9,67.32,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 9,54.6,2,1,Sổ đỏ/Sổ hồng,Basic,3.95
+Gò Vấp,54.0,6,4,Sổ đỏ/Sổ hồng,Basic,4.95
+Bình Tân,83.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 6,48.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 2,86.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 2,68.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Bình Thạnh,41.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.2
+Nhà Bè,40.0,1,1,Hợp đồng mua bán,Basic,4.5
+Nhà Bè,83.0,3,2,Đang chờ sổ,Basic,3.4
+Nhà Bè,250.0,5,3,Sổ đỏ/Sổ hồng,Basic,3.9
+Quận 7,76.0,2,2,Đang chờ sổ,Fully Furnished,3.85
+Quận 9,50.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 7,56.0,2,1,Đang chờ sổ,Fully Furnished,3.7
+Nhà Bè,64.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.85
+Phú Nhuận,69.0,2,2,Đang chờ sổ,Fully Furnished,4.19
+Hóc Môn,84.4,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.7
+Phú Nhuận,24.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.85
+Bình Thạnh,35.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Gò Vấp,42.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.58
+Quận 9,50.0,4,3,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.6
+Gò Vấp,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.25
+Quận 4,65.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.64
+Gò Vấp,44.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 2,70.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.9
+Bình Thạnh,54.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.32
+Tân Phú,44.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Phú Nhuận,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Tân Phú,50.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 10,50.4,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 5,52.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.87
+Bình Tân,74.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,45.0
+Quận 9,61.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.85
+Quận 7,97.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.6
+Gò Vấp,48.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.2
+Quận 7,94.5,3,2,Sổ đỏ/Sổ hồng,Basic,4.8
+Thủ Đức,80.0,2,2,Hợp đồng mua bán,Basic,4.0
+Quận 2,94.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Bình Tân,40.0,4,3,Sổ đỏ/Sổ hồng,Basic,4.7
+Bình Tân,56.0,2,1,Sổ đỏ/Sổ hồng,Basic,3.6
+Bình Tân,48.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.2
+Tân Phú,71.0,2,2,Hợp đồng mua bán,Fully Furnished,3.2
+Quận 7,69.0,2,2,Hợp đồng mua bán,Luxuriously Furnished,4.2
+Gò Vấp,40.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Quận 4,80.0,2,2,Hợp đồng mua bán,Fully Furnished,4.9
+Quận 4,74.0,2,2,Hợp đồng mua bán,Fully Furnished,4.8
+Thủ Đức,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,41.0
+Quận 1,47.0,5,5,Đang chờ sổ,Luxuriously Furnished,3.8
+Quận 2,71.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Quận 2,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Quận 2,68.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Quận 7,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.89
+Quận 2,71.3,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Quận 1,63.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Nhà Bè,70.0,2,2,Hợp đồng mua bán,Fully Furnished,3.0
+Thủ Đức,86.0,2,2,Hợp đồng mua bán,Fully Furnished,4.0
+Quận 7,56.0,4,3,Hợp đồng mua bán,Fully Furnished,4.8
+Tân Phú,82.0,3,3,Hợp đồng mua bán,Fully Furnished,4.0
+Bình Thạnh,35.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 6,83.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.15
+Tân Phú,112.0,3,2,Hợp đồng mua bán,Fully Furnished,3.97
+Quận 2,70.0,2,2,Hợp đồng mua bán,Fully Furnished,4.05
+Thủ Đức,50.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Quận 6,66.5,3,2,Đang chờ sổ,Basic,4.2
+Gò Vấp,48.0,2,2,Đang chờ sổ,Basic,3.75
+Quận 7,107.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.2
+Quận 4,50.0,1,2,Sổ đỏ/Sổ hồng,Basic,3.1
+Bình Tân,47.0,5,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.75
+Quận 7,150.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.5
+Gò Vấp,45.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 7,85.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 4,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Tân Phú,84.0,2,2,Hợp đồng mua bán,Fully Furnished,3.86
+Bình Thạnh,41.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Gò Vấp,100.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.95
+Quận 7,95.0,3,2,Sổ đỏ/Sổ hồng,Unfurnished,3.5
+Quận 2,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Quận 2,80.0,2,2,Đang chờ sổ,Fully Furnished,4.35
+Thủ Đức,80.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Quận 4,80.0,2,2,Hợp đồng mua bán,Fully Furnished,3.6
+Quận 10,74.0,2,2,Hợp đồng mua bán,Fully Furnished,3.75
+Quận 7,85.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Quận 7,70.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.15
+Quận 12,150.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Thủ Đức,80.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 4,60.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.0
+Quận 7,120.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 2,53.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 2,53.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Tân Bình,118.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 1,77.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Quận 7,66.0,2,2,Hợp đồng mua bán,Basic,3.45
+Quận 10,72.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Quận 10,60.0,1,1,Sổ đỏ/Sổ hồng,Basic,4.31
+Quận 2,48.2,1,1,Hợp đồng mua bán,Basic,5.0
+Quận 2,86.0,3,1,Hợp đồng mua bán,Basic,4.75
+Gò Vấp,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Bình Thạnh,40.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.99
+Tân Phú,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 3,58.0,2,1,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.5
+Quận 12,70.0,4,4,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.99
+Quận 7,100.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.2
+Bình Chánh,76.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.8
+Quận 7,100.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.2
+Bình Chánh,76.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.8
+Tân Phú,84.0,3,2,Hợp đồng mua bán,Basic,3.44
+Bình Chánh,110.0,3,3,Sổ đỏ/Sổ hồng,Basic,3.65
+Bình Chánh,113.0,3,3,Sổ đỏ/Sổ hồng,Basic,3.65
+Quận 7,48.0,4,3,Sổ đỏ/Sổ hồng,Basic,5.0
+Tân Phú,104.0,3,2,Hợp đồng mua bán,Fully Furnished,4.55
+Quận 3,22.0,3,3,Sổ đỏ/Sổ hồng,Basic,3.92
+Quận 12,106.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.18
+Quận 7,73.1,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Bình Thạnh,56.7,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.29
+Quận 7,73.1,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 2,91.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Bình Tân,95.5,2,2,Hợp đồng mua bán,Fully Furnished,3.8
+Bình Tân,76.0,2,2,Hợp đồng mua bán,Fully Furnished,3.0
+Quận 7,99.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 7,112.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.85
+Quận 12,52.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.85
+Tân Phú,61.0,3,2,Sổ đỏ/Sổ hồng,Unfurnished,4.2
+Tân Phú,71.0,2,2,Hợp đồng mua bán,Fully Furnished,3.25
+Quận 1,76.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Bình Chánh,76.0,2,2,Hợp đồng mua bán,Fully Furnished,3.5
+Quận 7,113.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.45
+Quận 7,96.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 4,57.0,1,1,Đang chờ sổ,Fully Furnished,3.6
+Bình Chánh,96.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Quận 9,90.0,3,2,Đang chờ sổ,Fully Furnished,3.4
+Phú Nhuận,52.0,2,3,Sổ đỏ/Sổ hồng,Basic,3.5
+Quận 4,25.5,2,2,Sổ đỏ/Sổ hồng,Basic,3.1
+Bình Tân,82.0,3,1,Hợp đồng mua bán,Basic,4.0
+Quận 7,48.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Quận 11,29.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 11,42.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 6,33.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.05
+Quận 2,80.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.3
+Quận 9,56.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Quận 7,118.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.4
+Quận 7,99.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 7,106.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.35
+Tân Phú,112.0,3,2,Hợp đồng mua bán,Fully Furnished,4.1
+Quận 2,61.0,2,2,Hợp đồng mua bán,Fully Furnished,4.7
+Gò Vấp,46.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 3,28.0,1,2,Sổ đỏ/Sổ hồng,Basic,3.6
+Phú Nhuận,40.5,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.09
+Gò Vấp,53.7,3,4,Sổ đỏ/Sổ hồng,Basic,4.95
+Gò Vấp,53.0,3,4,Sổ đỏ/Sổ hồng,Basic,4.6
+Quận 8,60.0,3,3,Sổ đỏ/Sổ hồng,Basic,4.3
+Quận 8,58.0,2,1,Hợp đồng mua bán,Basic,3.4
+Quận 12,58.0,4,3,Sổ đỏ/Sổ hồng,Basic,3.2
+Quận 8,64.0,4,3,Sổ đỏ/Sổ hồng,Basic,4.9
+Gò Vấp,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Nhà Bè,83.0,3,2,Đang chờ sổ,Fully Furnished,3.4
+Nhà Bè,250.0,5,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Tân Bình,46.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Hóc Môn,80.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.9
+Quận 12,90.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Gò Vấp,53.3,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Gò Vấp,61.9,3,2,Sổ đỏ/Sổ hồng,Basic,4.68
+Quận 4,50.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Quận 7,106.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.3
+Bình Tân,47.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.7
+Tân Phú,71.0,2,2,Hợp đồng mua bán,Fully Furnished,3.35
+Quận 7,33.25,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Bình Chánh,130.0,3,2,Sổ đỏ/Sổ hồng,Basic,30.0
+Nhà Bè,60.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Tân Bình,45.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.85
+Thủ Đức,45.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 7,79.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.59
+Quận 4,43.0,2,1,Hợp đồng mua bán,Basic,3.1
+Thủ Đức,90.6,2,1,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.8
+Bình Tân,44.0,2,1,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.7
+Quận 6,90.0,3,2,Hợp đồng mua bán,Fully Furnished,3.5
+Tân Bình,80.0,2,2,Hợp đồng mua bán,Basic,4.2
+Quận 12,52.0,2,2,Hợp đồng mua bán,Basic,3.25
+Quận 12,46.3,2,2,Hợp đồng mua bán,Basic,3.6
+Quận 12,75.0,1,1,Hợp đồng mua bán,Basic,3.8
+Bình Tân,55.0,4,5,Sổ đỏ/Sổ hồng,Fully Furnished,4.58
+Tân Phú,72.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Bình Tân,52.0,5,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Bình Tân,66.0,2,2,Hợp đồng mua bán,Basic,3.2
+Quận 9,79.0,2,2,Hợp đồng mua bán,Fully Furnished,3.7
+Quận 9,69.0,2,2,Hợp đồng mua bán,Basic,3.1
+Bình Tân,64.0,2,2,Hợp đồng mua bán,Basic,4.4
+Quận 7,92.0,2,2,Hợp đồng mua bán,Fully Furnished,3.2
+Bình Tân,52.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 9,76.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Bình Thạnh,34.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.58
+Quận 3,23.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.7
+Quận 7,49.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 7,68.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Phú Nhuận,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Tân Bình,83.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.95
+Quận 9,90.0,2,1,Hợp đồng mua bán,Basic,3.3
+Quận 6,83.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 2,105.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Quận 2,45.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 2,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.15
+Bình Chánh,60.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.14
+Quận 7,85.0,3,2,Hợp đồng mua bán,Basic,3.1
+Quận 4,75.0,2,2,Hợp đồng mua bán,Fully Furnished,4.6
+Quận 7,50.0,1,1,Đang chờ sổ,Fully Furnished,3.7
+Gò Vấp,36.0,2,3,Sổ đỏ/Sổ hồng,Unfurnished,3.78
+Quận 11,77.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Quận 10,74.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.08
+Quận 12,84.0,4,3,Sổ đỏ/Sổ hồng,Basic,4.59
+Tân Bình,100.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.97
+Gò Vấp,33.3,2,2,Sổ đỏ/Sổ hồng,Basic,3.6
+Quận 12,56.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.7
+Bình Thạnh,20.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.2
+Quận 10,100.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.6
+Quận 11,111.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Quận 2,102.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.15
+Tân Phú,30.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Quận 1,50.0,1,1,Sổ đỏ/Sổ hồng,Basic,4.75
+Quận 4,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Tân Phú,27.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.59
+Tân Phú,60.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Tân Phú,60.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 7,128.13,3,2,Đang chờ sổ,Fully Furnished,3.7
+Quận 7,53.0,2,2,Hợp đồng mua bán,Basic,4.85
+Tân Phú,56.0,2,2,Hợp đồng mua bán,Basic,4.95
+Quận 12,45.0,1,1,Sổ đỏ/Sổ hồng,Basic,4.65
+Nhà Bè,80.0,4,5,Sổ đỏ/Sổ hồng,Basic,4.4
+Phú Nhuận,71.0,2,5,Sổ đỏ/Sổ hồng,Basic,4.65
+Gò Vấp,46.75,2,2,Sổ đỏ/Sổ hồng,Basic,4.25
+Tân Bình,55.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.8
+Bình Tân,44.0,5,2,Sổ đỏ/Sổ hồng,Basic,4.8
+Tân Phú,106.0,3,3,Hợp đồng mua bán,Basic,3.5
+Quận 2,76.0,2,2,Hợp đồng mua bán,Fully Furnished,3.9
+Quận 9,57.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.79
+Quận 2,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.16
+Quận 7,72.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 4,60.0,2,1,Hợp đồng mua bán,Basic,4.35
+Quận 7,88.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Quận 8,82.5,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 6,28.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 9,73.0,2,2,Hợp đồng mua bán,Basic,3.4
+Quận 10,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 11,87.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Bình Tân,52.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.15
+Tân Phú,90.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 7,118.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Gò Vấp,40.0,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 9,69.0,2,2,Hợp đồng mua bán,Basic,3.13
+Quận 7,78.0,2,2,Hợp đồng mua bán,Basic,4.0
+Quận 12,64.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.55
+Quận 12,52.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.55
+Quận 12,44.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.15
+Tân Phú,52.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 7,112.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 7,71.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Quận 3,58.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.28
+Tân Bình,51.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.99
+Tân Bình,33.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.85
+Tân Phú,85.0,2,2,Hợp đồng mua bán,Basic,4.25
+Quận 10,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 7,89.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Quận 7,76.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.9
+Quận 7,53.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Gò Vấp,63.0,4,3,Sổ đỏ/Sổ hồng,Basic,3.88
+Tân Bình,52.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Nhà Bè,44.8,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.75
+Bình Thạnh,83.3,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 2,70.8,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.35
+Bình Tân,54.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.98
+Phú Nhuận,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Tân Bình,97.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 6,105.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Bình Thạnh,105.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Quận 6,97.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Bình Thạnh,107.1,2,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Quận 6,102.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.6
+Quận 7,79.0,2,2,Hợp đồng mua bán,Unfurnished,4.9
+Tân Bình,75.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Thủ Đức,50.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Bình Thạnh,32.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.35
+Thủ Đức,26.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Quận 9,87.0,3,3,Hợp đồng mua bán,Fully Furnished,3.15
+Quận 7,40.0,3,2,Sổ đỏ/Sổ hồng,Unfurnished,4.9
+Quận 6,30.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.35
+Quận 7,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 4,81.0,2,2,Hợp đồng mua bán,Basic,3.9
+Quận 12,72.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.55
+Quận 8,50.8,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.57
+Bình Tân,47.0,4,4,Sổ đỏ/Sổ hồng,Basic,4.7
+Bình Tân,50.0,4,4,Sổ đỏ/Sổ hồng,Basic,4.1
+Quận 9,61.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.85
+Nhà Bè,82.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Quận 8,52.1,4,3,Sổ đỏ/Sổ hồng,Basic,3.9
+Hóc Môn,80.0,4,3,Sổ đỏ/Sổ hồng,Basic,4.1
+Tân Bình,80.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Quận 12,90.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.8
+Quận 9,90.0,4,4,Sổ đỏ/Sổ hồng,Basic,5.0
+Quận 6,102.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Quận 7,78.0,3,2,Sổ đỏ/Sổ hồng,Unfurnished,4.25
+Quận 7,65.0,2,2,Đang chờ sổ,Basic,3.5
+Quận 4,75.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.8
+Quận 10,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Phú Nhuận,23.0,2,3,Sổ đỏ/Sổ hồng,Basic,3.5
+Quận 2,45.0,2,3,Hợp đồng mua bán,Basic,4.7
+Quận 7,69.0,2,2,Đang chờ sổ,Fully Furnished,3.3
+Bình Thạnh,139.0,3,2,Đang chờ sổ,Luxuriously Furnished,4.8
+Quận 10,74.0,2,2,Hợp đồng mua bán,Fully Furnished,3.75
+Quận 12,118.0,2,1,Sổ đỏ/Sổ hồng,Basic,3.3
+Quận 12,81.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 12,60.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.32
+Quận 7,118.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Quận 1,70.0,3,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Hóc Môn,80.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 7,52.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.39
+Quận 7,38.2,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Quận 4,31.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Thủ Đức,44.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Thủ Đức,70.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.7
+Nhà Bè,82.0,1,2,Sổ đỏ/Sổ hồng,Basic,52.0
+Quận 12,76.0,4,4,Sổ đỏ/Sổ hồng,Basic,3.9
+Quận 12,60.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Phú Nhuận,52.0,4,4,Sổ đỏ/Sổ hồng,Basic,4.4
+Quận 9,76.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 7,68.0,2,2,Công chứng ngay,Fully Furnished,3.2
+Quận 7,48.4,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 9,68.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Bình Tân,79.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Thủ Đức,60.0,4,5,Sổ đỏ/Sổ hồng,Basic,4.6
+Bình Thạnh,93.1,4,6,Sổ đỏ/Sổ hồng,Basic,4.35
+Quận 9,111.0,4,6,Sổ đỏ/Sổ hồng,Basic,4.8
+Quận 10,40.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.85
+Bình Tân,47.3,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.49
+Tân Bình,56.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Bình Tân,63.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Quận 9,74.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,42.0
+Quận 9,74.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,42.0
+Quận 12,81.0,2,2,Hợp đồng mua bán,Fully Furnished,3.15
+Bình Thạnh,55.0,1,1,Hợp đồng mua bán,Basic,4.95
+Tân Phú,53.5,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Gò Vấp,45.5,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 12,52.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Tân Phú,52.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Bình Thạnh,28.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Gò Vấp,50.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Thủ Đức,63.0,4,5,Sổ đỏ/Sổ hồng,Basic,4.6
+Tân Phú,38.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 4,75.0,2,2,Hợp đồng mua bán,Fully Furnished,4.5
+Bình Thạnh,37.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.15
+Quận 8,73.5,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.08
+Quận 8,45.0,5,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Bình Thạnh,85.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.2
+Quận 2,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Thủ Đức,48.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 7,120.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 7,120.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Hóc Môn,164.0,8,8,Sổ đỏ/Sổ hồng,Basic,5.0
+Bình Tân,95.0,3,2,Hợp đồng mua bán,Basic,4.67
+Quận 2,95.0,2,2,Hợp đồng mua bán,Luxuriously Furnished,5.0
+Quận 2,85.0,2,2,Đang chờ sổ,Basic,3.6
+Quận 7,106.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Quận 10,30.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.8
+Quận 9,83.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.75
+Quận 1,15.8,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Quận 7,62.52,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 7,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 7,99.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Tân Phú,87.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.45
+Bình Tân,54.0,4,5,Sổ đỏ/Sổ hồng,Unfurnished,3.1
+Bình Tân,48.0,2,3,Sổ đỏ/Sổ hồng,Basic,4.39
+Quận 9,80.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.8
+Bình Tân,34.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Tân Phú,27.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.59
+Quận 2,75.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.7
+Gò Vấp,46.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.75
+Quận 7,100.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 2,140.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Quận 7,63.7,2,2,Sổ đỏ/Sổ hồng,Basic,3.9
+Quận 7,50.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.25
+Quận 7,73.5,2,2,Sổ đỏ/Sổ hồng,Basic,3.1
+Quận 7,112.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.0
+Quận 10,52.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.75
+Quận 10,72.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.15
+Quận 7,103.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Bình Thạnh,85.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.18
+Quận 2,45.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 7,52.0,2,1,Hợp đồng mua bán,Basic,3.2
+Thủ Đức,64.0,2,1,Hợp đồng mua bán,Basic,4.8
+Quận 1,22.0,3,3,Sổ đỏ/Sổ hồng,Basic,4.65
+Bình Tân,62.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 7,114.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.39
+Quận 11,22.05,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 8,105.0,3,2,Sổ đỏ/Sổ hồng,Unfurnished,3.0
+Phú Nhuận,70.0,2,2,Sổ đỏ/Sổ hồng,Unfurnished,3.5
+Bình Tân,60.0,2,2,Sổ đỏ/Sổ hồng,Unfurnished,4.45
+Bình Tân,78.0,2,2,Sổ đỏ/Sổ hồng,Unfurnished,3.5
+Thủ Đức,71.0,2,2,Sổ đỏ/Sổ hồng,Unfurnished,3.0
+Nhà Bè,82.0,2,2,Hợp đồng mua bán,Unfurnished,4.8
+Phú Nhuận,28.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.0
+Bình Tân,83.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 4,77.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Bình Chánh,77.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Tân Bình,80.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.95
+Gò Vấp,32.0,3,3,Sổ đỏ/Sổ hồng,Basic,3.65
+Quận 10,74.0,2,2,Hợp đồng mua bán,Basic,3.75
+Quận 4,68.0,2,2,Hợp đồng mua bán,Fully Furnished,4.03
+Quận 2,49.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Nhà Bè,71.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.45
+Tân Phú,93.0,3,2,Hợp đồng mua bán,Fully Furnished,4.05
+Quận 7,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Quận 7,88.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 7,89.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.0
+Quận 7,106.0,3,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.55
+Quận 7,89.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.5
+Quận 7,88.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,4.6
+Tân Phú,71.0,2,2,Hợp đồng mua bán,Basic,3.4
+Quận 12,117.0,5,2,Sổ đỏ/Sổ hồng,Basic,4.25
+Quận 2,82.5,3,2,Hợp đồng mua bán,Basic,4.85
+Tân Bình,74.0,2,2,Đang chờ sổ,Fully Furnished,3.76
+Tân Phú,28.0,2,2,Đang chờ sổ,Fully Furnished,3.65
+Quận 7,43.7,2,2,Đang chờ sổ,Fully Furnished,4.65
+Quận 2,102.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.26
+Quận 7,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Quận 7,72.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.55
+Bình Tân,33.0,3,2,Sổ đỏ/Sổ hồng,Unfurnished,3.7
+Quận 2,50.0,1,1,Hợp đồng mua bán,Fully Furnished,4.6
+Nhà Bè,75.0,2,2,Hợp đồng mua bán,Fully Furnished,3.4
+Thủ Đức,80.0,2,2,Hợp đồng mua bán,Fully Furnished,3.4
+Quận 2,50.0,1,1,Hợp đồng mua bán,Fully Furnished,4.6
+Bình Thạnh,31.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.75
+Quận 2,71.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Quận 2,65.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.35
+Quận 2,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.45
+Quận 2,68.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Quận 2,76.0,2,2,Hợp đồng mua bán,Fully Furnished,3.9
+Quận 12,103.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.96
+Quận 12,85.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.7
+Quận 2,54.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 12,56.0,5,3,Sổ đỏ/Sổ hồng,Basic,4.25
+Bình Tân,80.0,2,2,Sổ đỏ/Sổ hồng,Basic,48.0
+Tân Bình,81.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Phú Nhuận,73.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Nhà Bè,34.3,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.35
+Nhà Bè,196.0,3,3,Sổ đỏ/Sổ hồng,Basic,3.5
+Quận 2,73.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.2
+Tân Phú,27.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.59
+Quận 10,74.0,2,2,Hợp đồng mua bán,Fully Furnished,3.75
+Quận 6,79.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 10,70.0,2,2,Đang chờ sổ,Basic,4.3
+Phú Nhuận,75.0,2,2,Đang chờ sổ,Basic,4.5
+Quận 6,78.0,3,2,Đang chờ sổ,Basic,3.5
+Quận 5,86.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 4,71.0,2,2,Hợp đồng mua bán,Basic,5.0
+Bình Chánh,113.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.4
+Bình Chánh,113.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 11,87.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Quận 8,115.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.55
+Tân Bình,68.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Quận 12,71.0,2,1,Sổ đỏ/Sổ hồng,Basic,3.6
+Bình Thạnh,48.0,4,1,Sổ đỏ/Sổ hồng,Basic,3.15
+Quận 2,48.0,1,1,Sổ đỏ/Sổ hồng,Basic,4.0
+Quận 10,75.0,2,2,Hợp đồng mua bán,Fully Furnished,4.7
+Tân Bình,56.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 4,21.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.85
+Quận 6,96.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Quận 12,72.0,2,1,Sổ đỏ/Sổ hồng,Basic,3.75
+Bình Tân,61.0,2,1,Hợp đồng mua bán,Basic,52.0
+Bình Tân,83.0,3,2,Hợp đồng mua bán,Basic,4.2
+Quận 2,78.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Tân Bình,62.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.79
+Tân Phú,83.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Thủ Đức,70.0,2,2,Hợp đồng mua bán,Fully Furnished,3.4
+Tân Bình,82.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.4
+Quận 6,85.0,2,2,Hợp đồng mua bán,Basic,3.3
+Quận 6,89.0,3,2,Hợp đồng mua bán,Basic,3.0
+Quận 6,89.0,3,2,Hợp đồng mua bán,Basic,3.0
+Bình Tân,61.0,3,2,Hợp đồng mua bán,Basic,3.0
+Quận 2,100.0,3,2,Hợp đồng mua bán,Basic,4.5
+Quận 10,88.0,2,2,Hợp đồng mua bán,Basic,4.88
+Nhà Bè,75.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.75
+Bình Thạnh,60.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 2,95.0,1,1,Hợp đồng mua bán,Basic,4.3
+Tân Phú,40.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Quận 7,65.0,2,1,Hợp đồng mua bán,Luxuriously Furnished,3.3
+Quận 7,76.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Bình Thạnh,51.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.85
+Thủ Đức,83.0,4,5,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Bình Tân,60.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Bình Tân,50.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.95
+Quận 9,80.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Tân Phú,54.0,3,2,Sổ đỏ/Sổ hồng,Basic,5.0
+Quận 4,50.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Quận 4,50.0,1,1,Hợp đồng mua bán,Fully Furnished,3.9
+Tân Phú,88.8,2,2,Hợp đồng mua bán,Basic,4.35
+Quận 7,71.9,2,2,Hợp đồng mua bán,Basic,3.4
+Quận 2,74.0,2,2,Hợp đồng mua bán,Fully Furnished,3.05
+Tân Phú,40.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Quận 7,66.0,2,2,Hợp đồng mua bán,Basic,3.73
+Tân Phú,71.0,2,2,Hợp đồng mua bán,Basic,3.27
+Tân Phú,93.0,3,2,Hợp đồng mua bán,Fully Furnished,4.05
+Gò Vấp,60.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.85
+Tân Phú,112.0,3,2,Hợp đồng mua bán,Basic,4.2
+Gò Vấp,24.0,2,3,Sổ đỏ/Sổ hồng,Basic,4.0
+Tân Phú,71.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.18
+Bình Chánh,146.0,8,8,Sổ đỏ/Sổ hồng,Basic,3.5
+Quận 9,51.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.12
+Gò Vấp,35.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 2,73.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 4,72.0,2,2,Hợp đồng mua bán,Basic,5.0
+Tân Phú,71.0,2,2,Hợp đồng mua bán,Fully Furnished,3.05
+Quận 9,240.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 12,79.0,3,2,Đang chờ sổ,Fully Furnished,3.05
+Tân Phú,52.8,5,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.15
+Quận 7,116.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Thủ Đức,58.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Tân Bình,35.0,4,3,Sổ đỏ/Sổ hồng,Basic,4.55
+Quận 4,73.0,2,2,Hợp đồng mua bán,Fully Furnished,4.9
+Quận 4,49.0,1,1,Hợp đồng mua bán,Basic,4.0
+Tân Bình,79.0,4,4,Hợp đồng mua bán,Basic,4.79
+Nhà Bè,93.0,3,2,Hợp đồng mua bán,Fully Furnished,3.65
+Bình Tân,60.0,1,1,Hợp đồng mua bán,Basic,4.9
+Quận 8,91.0,3,2,Đang chờ sổ,Fully Furnished,4.5
+Quận 9,70.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.0
+Bình Tân,38.0,3,2,Đang chờ sổ,Luxuriously Furnished,3.98
+Quận 9,75.0,2,3,Hợp đồng mua bán,Basic,3.8
+Quận 4,50.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Bình Thạnh,67.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.75
+Bình Tân,60.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Nhà Bè,71.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.1
+Quận 12,60.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.4
+Nhà Bè,71.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.1
+Quận 7,99.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.75
+Tân Phú,64.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Quận 4,82.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.15
+Quận 7,87.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 2,82.5,3,2,Hợp đồng mua bán,Unfurnished,4.8
+Quận 7,94.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.95
+Bình Tân,70.8,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Bình Thạnh,77.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Bình Chánh,85.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 7,68.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.69
+Quận 7,100.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 7,91.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 7,91.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Thủ Đức,57.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Quận 7,99.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Nhà Bè,55.9,4,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 9,52.0,1,1,Hợp đồng mua bán,Fully Furnished,3.2
+Quận 9,103.5,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,39.0
+Quận 2,120.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 8,150.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.25
+Quận 2,64.0,2,2,Hợp đồng mua bán,Basic,3.75
+Nhà Bè,104.0,3,2,Hợp đồng mua bán,Basic,3.8
+Nhà Bè,71.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Quận 5,82.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 6,46.6,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 6,46.6,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Bình Chánh,100.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Nhà Bè,122.0,3,2,Sổ đỏ/Sổ hồng,Unfurnished,3.3
+Quận 4,76.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.1
+Quận 11,88.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Nhà Bè,95.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Thủ Đức,102.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.05
+Tân Bình,118.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 6,81.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.25
+Bình Tân,56.0,5,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.68
+Bình Thạnh,50.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 7,118.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Quận 7,118.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Phú Nhuận,33.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Bình Tân,40.0,4,5,Sổ đỏ/Sổ hồng,Fully Furnished,3.1
+Quận 4,28.1,3,2,Sổ đỏ/Sổ hồng,Unfurnished,4.7
+Quận 6,86.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Phú Nhuận,72.0,4,6,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Phú Nhuận,36.8,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.95
+Quận 9,73.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,42.0
+Quận 3,34.8,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Tân Bình,100.0,3,3,Đang chờ sổ,Fully Furnished,4.9
+Bình Tân,82.0,3,2,Đang chờ sổ,Fully Furnished,4.3
+Quận 7,78.0,2,2,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.65
+Tân Phú,75.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Quận 4,90.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.3
+Tân Phú,36.0,4,3,Sổ đỏ/Sổ hồng,Basic,3.45
+Bình Thạnh,32.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.35
+Quận 6,97.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Quận 7,89.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.48
+Gò Vấp,60.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Gò Vấp,56.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Bình Chánh,72.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 12,60.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.25
+Quận 2,56.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Quận 12,64.0,6,5,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Quận 9,50.5,6,5,Sổ đỏ/Sổ hồng,Fully Furnished,4.1
+Quận 12,103.2,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 2,48.2,1,1,Hợp đồng mua bán,Basic,5.0
+Quận 2,73.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.85
+Tân Bình,40.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.6
+Quận 12,55.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.65
+Quận 10,30.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.55
+Bình Tân,35.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Tân Phú,95.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Tân Bình,80.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.95
+Tân Bình,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Tân Bình,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Thủ Đức,50.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Quận 12,63.0,4,4,Sổ đỏ/Sổ hồng,Basic,3.85
+Quận 12,56.0,4,3,Sổ đỏ/Sổ hồng,Basic,4.8
+Quận 10,74.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.8
+Quận 7,117.6,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Quận 12,72.0,2,1,Sổ đỏ/Sổ hồng,Basic,3.7
+Quận 12,55.0,2,2,Sổ đỏ/Sổ hồng,Unfurnished,3.35
+Quận 7,106.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 12,82.5,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.55
+Quận 12,49.6,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.7
+Quận 12,84.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.99
+Bình Tân,48.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Quận 10,40.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.46
+Thủ Đức,110.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.0
+Quận 12,67.5,4,4,Sổ đỏ/Sổ hồng,Unfurnished,4.9
+Quận 8,37.0,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Bình Tân,67.0,3,2,Sổ đỏ/Sổ hồng,Basic,48.0
+Quận 12,100.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.15
+Quận 12,100.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.15
+Quận 8,99.0,3,2,Hợp đồng mua bán,Fully Furnished,3.93
+Bình Tân,62.0,3,2,Hợp đồng mua bán,Fully Furnished,4.5
+Quận 7,39.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Gò Vấp,50.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Bình Tân,59.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.55
+Quận 2,90.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 1,30.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Bình Tân,64.0,4,5,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Thủ Đức,37.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 1,25.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Bình Thạnh,41.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Quận 1,22.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 12,44.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.48
+Quận 12,53.6,4,3,Sổ đỏ/Sổ hồng,Basic,4.25
+Thủ Đức,81.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.0
+Tân Bình,26.25,2,2,Sổ đỏ/Sổ hồng,Basic,3.18
+Phú Nhuận,17.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.1
+Thủ Đức,70.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Tân Phú,98.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Tân Phú,84.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.05
+Quận 9,52.0,4,3,Sổ đỏ/Sổ hồng,Basic,5.0
+Gò Vấp,40.0,2,3,Sổ đỏ/Sổ hồng,Basic,4.65
+Hóc Môn,70.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Quận 12,66.4,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.78
+Quận 4,70.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Gò Vấp,25.4,2,3,Sổ đỏ/Sổ hồng,Basic,3.69
+Tân Phú,109.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,5.0
+Bình Tân,50.0,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.95
+Nhà Bè,50.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Quận 2,80.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Quận 8,86.0,2,2,Hợp đồng mua bán,Fully Furnished,3.2
+Bình Thạnh,75.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.3
+Quận 4,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Gò Vấp,35.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Tân Phú,95.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.5
+Phú Nhuận,18.9,1,1,Sổ đỏ/Sổ hồng,Basic,3.9
+Quận 2,49.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Gò Vấp,52.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Quận 2,65.0,2,2,Hợp đồng mua bán,Unfurnished,3.95
+Quận 8,53.76,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Bình Tân,60.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.49
+Bình Tân,60.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.0
+Tân Phú,40.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.6
+Tân Phú,84.0,2,2,Hợp đồng mua bán,Unfurnished,3.85
+Quận 12,99.0,3,2,Đang chờ sổ,Basic,33.9
+Thủ Đức,61.3,3,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.5
+Gò Vấp,60.0,4,5,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Quận 4,49.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.2
+Thủ Đức,96.0,1,1,Sổ đỏ/Sổ hồng,Fully Furnished,4.29
+Quận 10,80.0,5,5,Sổ đỏ/Sổ hồng,Basic,4.2
+Quận 7,107.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.85
+Nhà Bè,122.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.3
+Nhà Bè,122.0,4,2,Sổ đỏ/Sổ hồng,Unfurnished,3.4
+Tân Phú,82.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.2
+Bình Tân,60.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.5
+Gò Vấp,48.0,4,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Bình Tân,90.1,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,38.1
+Gò Vấp,44.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Quận 8,38.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Quận 8,38.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.9
+Bình Chánh,79.0,2,2,Đang chờ sổ,Basic,3.43
+Gò Vấp,42.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.99
+Bình Thạnh,60.0,3,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.05
+Bình Tân,68.0,2,2,Hợp đồng mua bán,Basic,48.0
+Gò Vấp,47.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Gò Vấp,45.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.0
+Bình Thạnh,50.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.75
+Bình Thạnh,28.0,2,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.65
+Quận 2,95.0,3,2,Hợp đồng mua bán,Fully Furnished,4.8
+Thủ Đức,98.0,3,2,Hợp đồng mua bán,Fully Furnished,3.9
+Quận 9,87.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.28
+Quận 9,53.0,4,3,Sổ đỏ/Sổ hồng,Basic,4.6
+Bình Tân,32.0,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.33
+Quận 8,99.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 2,103.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 2,101.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Gò Vấp,54.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Phú Nhuận,50.3,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.19
+Quận 2,90.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.75
+Quận 9,79.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,60.0
+Quận 9,105.0,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.3
+Tân Phú,34.4,2,2,Sổ đỏ/Sổ hồng,Basic,3.85
+Bình Thạnh,55.0,1,1,Hợp đồng mua bán,Unfurnished,3.8
+Quận 9,72.0,2,2,Hợp đồng mua bán,Basic,3.67
+Thủ Đức,55.3,3,4,Sổ đỏ/Sổ hồng,Basic,3.95
+Bình Thạnh,93.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.65
+Quận 9,59.0,4,2,Sổ đỏ/Sổ hồng,Basic,4.4
+Bình Chánh,60.0,2,1,Đang chờ sổ,Basic,3.2
+Gò Vấp,46.2,4,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.9
+Quận 4,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.8
+Bình Tân,38.4,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.85
+Gò Vấp,50.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Tân Phú,95.0,2,2,Hợp đồng mua bán,Basic,5.0
+Thủ Đức,72.0,2,2,Hợp đồng mua bán,Basic,3.4
+Quận 4,85.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.6
+Thủ Đức,80.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.8
+Quận 12,35.3,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,3.35
+Quận 12,48.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.57
+Quận 10,74.0,2,2,Hợp đồng mua bán,Luxuriously Furnished,3.9
+Quận 10,74.0,2,2,Hợp đồng mua bán,Luxuriously Furnished,4.0
+Quận 10,87.6,2,2,Hợp đồng mua bán,Luxuriously Furnished,5.0
+Quận 10,74.0,2,2,Hợp đồng mua bán,Luxuriously Furnished,4.15
+Bình Thạnh,45.0,2,2,Sổ đỏ/Sổ hồng,Basic,4.95
+Gò Vấp,72.5,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,3.65
+Tân Bình,63.0,3,4,Sổ đỏ/Sổ hồng,Luxuriously Furnished,5.0
+Tân Bình,70.0,2,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.05
+Phú Nhuận,42.75,3,4,Sổ đỏ/Sổ hồng,Luxuriously Furnished,3.65
+Quận 2,81.0,2,2,Hợp đồng mua bán,Fully Furnished,3.2
+Bình Tân,48.0,1,3,Sổ đỏ/Sổ hồng,Fully Furnished,3.75
+Thủ Đức,62.0,3,3,Sổ đỏ/Sổ hồng,Fully Furnished,4.39
+Quận 12,80.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.99
+Quận 6,88.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.2
+Quận 6,49.4,2,2,Sổ đỏ/Sổ hồng,Basic,3.55
+Thủ Đức,50.0,3,2,Sổ đỏ/Sổ hồng,Basic,3.9
+Bình Tân,55.0,4,5,Sổ đỏ/Sổ hồng,Fully Furnished,3.7
+Quận 12,82.5,4,4,Sổ đỏ/Sổ hồng,Fully Furnished,4.3
+Quận 8,103.7,3,2,Sổ đỏ/Sổ hồng,Fully Furnished,4.6
+Bình Tân,80.0,2,2,Hợp đồng mua bán,Fully Furnished,45.0
+Quận 9,50.6,2,1,Sổ đỏ/Sổ hồng,Fully Furnished,3.49
+Quận 7,106.0,3,3,Hợp đồng mua bán,Basic,4.7
+Quận 9,160.0,3,2,Hợp đồng mua bán,Basic,3.7
+Quận 7,115.0,3,2,Hợp đồng mua bán,Basic,4.6
+Bình Tân,32.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.55
+Bình Thạnh,66.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.2
+Phú Nhuận,28.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.65
+Bình Thạnh,60.0,3,2,Sổ đỏ/Sổ hồng,Basic,4.8
+Phú Nhuận,35.0,2,2,Sổ đỏ/Sổ hồng,Basic,3.6
