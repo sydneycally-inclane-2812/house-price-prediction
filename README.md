@@ -1,5 +1,3 @@
-Absolutely! Here's a GitHub README file tailored for your house price prediction project.
-
 **Project Title: House Price Predictor**
 
 **Description**
