@@ -11,12 +11,18 @@ This project aims to predict housing prices in Ho Chi Minh City using machine le
 * **Matplotlib:** Creating visualizations to understand price trends and feature relationships.
 * **Scikit-learn:** Building various machine learning models and evaluating their performance.
 
+**Files**
+- Final Project.ipynb: Jupyter Notebook file for the whole project.
+- GiaChungCu_HCM_June2021_laydulieu_com.csv: Online public dataset for testing analytical technique.
+- House_Prediction.csv: Scraped Data, semi-cleaned
+- scraped_data (1).csv: Scraped Data, cleaned
+  
 
 **Data**
 
 * **Source:** Scraped from website batdongsan.com.vn. Reference dataset: [https://github.com/QuangTranUTE/Housing-Price-Prediction/blob/master/datasets/GiaChungCu_HCM_June2021_laydulieu_com.csv]
 * **Features:** 
-    * [List relevant housing features: square footage, number of bedrooms/bathrooms, location, year built, etc.]
+    * 
 
 **Getting Started**
 
@@ -26,7 +32,7 @@ This project aims to predict housing prices in Ho Chi Minh City using machine le
    ```
 2. **Install Dependencies:**
    ```bash
-   pip install -r requirements.txt
+   pip install cloudscraper
    ```
 3. **Run Scripts/Notebooks:**
    * Follow the instructions and execution order within the scripts and notebooks. 
