@@ -28,7 +28,7 @@ This project aims to predict housing prices in Ho Chi Minh City using machine le
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/your-username/house-price-predictor.git
+   git clone https://github.com/sydneycally-inclane-2812/house-price-prediction.git
    ```
 2. **Install Dependencies:**
    ```bash
